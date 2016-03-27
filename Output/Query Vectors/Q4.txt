@@ -1,0 +1,65 @@
+Query:  can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium  
+Lemmas:
+Lemma: assumption
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: base
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: can
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: chemical
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: chemically
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: criterion
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: develop
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: empirically
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: equilibrium
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: gas
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: instantaneous
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: local
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: mixture
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: react
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: show
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: simplify
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: solution
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561
+Lemma: validity
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.5399380804953561

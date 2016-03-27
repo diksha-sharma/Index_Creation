@@ -1,0 +1,403 @@
+Processing Query:  what problems of heat conduction in composite slabs have been solved so far  
+Top 5 Documents fetched in order:  
+
+Rank#: 1
+Cosine Similarity: 0.19110361117309294
+Doc#: 485  Document Headline:  linear heat flow in a composite slab .
+Document Vector: 
+Lemma: case
+Okapi Weight (Un-normalized):   0.44807976890587853
+Lemma: composite
+Okapi Weight (Un-normalized):   0.6888270508728883
+Lemma: conduction
+Okapi Weight (Un-normalized):   0.5516747837377929
+Lemma: consider
+Okapi Weight (Un-normalized):   0.4704355883293492
+Lemma: determine
+Okapi Weight (Un-normalized):   0.4704355883293492
+Lemma: external
+Okapi Weight (Un-normalized):   0.5288606973870751
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: function
+Okapi Weight (Un-normalized):   0.5114384523584605
+Lemma: heat
+Okapi Weight (Un-normalized):   0.49216934821772673
+Lemma: jaesc
+Okapi Weight (Un-normalized):   0.5761658603783387
+Lemma: linear
+Okapi Weight (Un-normalized):   0.551133630008739
+Lemma: position
+Okapi Weight (Un-normalized):   0.5332407590415416
+Lemma: prescribe
+Okapi Weight (Un-normalized):   0.5761658603783387
+Lemma: reidwp
+Okapi Weight (Un-normalized):   0.717037037037037
+Lemma: slab
+Okapi Weight (Un-normalized):   0.6637290517360106
+Lemma: surface
+Okapi Weight (Un-normalized):   0.46066991349511716
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.49216934821772673
+Lemma: throughout
+Okapi Weight (Un-normalized):   0.5712061334062569
+Lemma: time
+Okapi Weight (Un-normalized):   0.4961595378117571
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: ture
+Okapi Weight (Un-normalized):   0.6688947033003955
+Lemma: two
+Okapi Weight (Un-normalized):   0.44807976890587853
+
+Rank#: 2
+Cosine Similarity: 0.1759505655150012
+Doc#: 5  Document Headline:  one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal .
+Document Vector: 
+Lemma: ae
+Okapi Weight (Un-normalized):   0.45388446264368953
+Lemma: aerodynamic
+Okapi Weight (Un-normalized):   0.48082669396553435
+Lemma: analytic
+Okapi Weight (Un-normalized):   0.554322957879968
+Lemma: at
+Okapi Weight (Un-normalized):   0.4
+Lemma: composite
+Okapi Weight (Un-normalized):   0.5960350268534188
+Lemma: conduction
+Okapi Weight (Un-normalized):   0.5833680221307644
+Lemma: dimensional
+Okapi Weight (Un-normalized):   0.46964465765272373
+Lemma: double
+Okapi Weight (Un-normalized):   0.5578270790496975
+Lemma: during
+Okapi Weight (Un-normalized):   0.5295208683562851
+Lemma: example
+Okapi Weight (Un-normalized):   0.49320480691143
+Lemma: expose
+Okapi Weight (Un-normalized):   0.5882907594664499
+Lemma: heat
+Okapi Weight (Un-normalized):   0.5039213598301873
+Lemma: heating
+Okapi Weight (Un-normalized):   0.5529261799896203
+Lemma: input
+Okapi Weight (Un-normalized):   0.5920787922014307
+Lemma: internal
+Okapi Weight (Un-normalized):   0.5381943295577412
+Lemma: into
+Okapi Weight (Un-normalized):   0.48082669396553435
+Lemma: layer
+Okapi Weight (Un-normalized):   0.442702426330879
+Lemma: linear
+Okapi Weight (Un-normalized):   0.5025786370344403
+Lemma: may
+Okapi Weight (Un-normalized):   0.46255792384514566
+Lemma: occur
+Okapi Weight (Un-normalized):   0.49320480691143
+Lemma: one
+Okapi Weight (Un-normalized):   0.48515347245786994
+Lemma: present
+Okapi Weight (Un-normalized):   0.4269422313218448
+Lemma: rate
+Okapi Weight (Un-normalized):   0.5162525755634675
+Lemma: sc
+Okapi Weight (Un-normalized):   0.45388446264368953
+Lemma: slab
+Okapi Weight (Un-normalized):   0.6436541537680456
+Lemma: small
+Okapi Weight (Un-normalized):   0.46255792384514566
+Lemma: solution
+Okapi Weight (Un-normalized):   0.442702426330879
+Lemma: subject
+Okapi Weight (Un-normalized):   0.5025786370344403
+Lemma: surface
+Okapi Weight (Un-normalized):   0.45388446264368953
+Lemma: time
+Okapi Weight (Un-normalized):   0.4854048526617579
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transient
+Okapi Weight (Un-normalized):   0.5951742857363286
+Lemma: triangular
+Okapi Weight (Un-normalized):   0.5667676851069812
+Lemma: type
+Okapi Weight (Un-normalized):   0.47563640571259547
+Lemma: wassermanb
+Okapi Weight (Un-normalized):   0.6815789473684211
+
+Rank#: 3
+Cosine Similarity: 0.16048135631955512
+Doc#: 181  Document Headline:  some problems on heat conduction in stratiform bodies .
+Document Vector: 
+Lemma: apply
+Okapi Weight (Un-normalized):   0.4725067668713288
+Lemma: arise
+Okapi Weight (Un-normalized):   0.5414924620056915
+Lemma: body
+Okapi Weight (Un-normalized):   0.47537213179608107
+Lemma: calculation
+Okapi Weight (Un-normalized):   0.4725067668713288
+Lemma: case
+Okapi Weight (Un-normalized):   0.44445732056365483
+Lemma: class
+Okapi Weight (Un-normalized):   0.5583070411633198
+Lemma: complicate
+Okapi Weight (Un-normalized):   0.5923625697018795
+Lemma: composite
+Okapi Weight (Un-normalized):   0.6040912608336961
+Lemma: conduction
+Okapi Weight (Un-normalized):   0.5884303294902027
+Lemma: deduction
+Okapi Weight (Un-normalized):   0.6651012386238329
+Lemma: difficulty
+Okapi Weight (Un-normalized):   0.5695419083133655
+Lemma: general
+Okapi Weight (Un-normalized):   0.4725067668713288
+Lemma: give
+Okapi Weight (Un-normalized):   0.42804944630767405
+Lemma: heat
+Okapi Weight (Un-normalized):   0.48750433519443687
+Lemma: idea
+Okapi Weight (Un-normalized):   0.5783258136017801
+Lemma: infinite
+Okapi Weight (Un-normalized):   0.5212276900431709
+Lemma: japan
+Okapi Weight (Un-normalized):   0.5834197839695281
+Lemma: lead
+Okapi Weight (Un-normalized):   0.4787447511528391
+Lemma: multilayer
+Okapi Weight (Un-normalized):   0.6651012386238329
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: paper
+Okapi Weight (Un-normalized):   0.4725067668713288
+Lemma: phy
+Okapi Weight (Un-normalized):   0.5656850106068256
+Lemma: present
+Okapi Weight (Un-normalized):   0.42804944630767405
+Lemma: problem
+Okapi Weight (Un-normalized):   0.47537213179608107
+Lemma: question
+Okapi Weight (Un-normalized):   0.571922994888336
+Lemma: soc
+Okapi Weight (Un-normalized):   0.543873548580662
+Lemma: solide
+Okapi Weight (Un-normalized):   0.6931506849315068
+Lemma: special
+Okapi Weight (Un-normalized):   0.5212276900431709
+Lemma: specific
+Okapi Weight (Un-normalized):   0.5302575948556457
+Lemma: stratiform
+Okapi Weight (Un-normalized):   0.6651012386238329
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: usually
+Okapi Weight (Un-normalized):   0.5591083900639189
+Lemma: vodickav
+Okapi Weight (Un-normalized):   0.6651012386238329
+
+Rank#: 4
+Cosine Similarity: 0.1602189508613605
+Doc#: 399  Document Headline:  conduction of heat in composite slabs .
+Document Vector: 
+Lemma: additional
+Okapi Weight (Un-normalized):   0.5452964127148223
+Lemma: allowance
+Okapi Weight (Un-normalized):   0.621941303836919
+Lemma: appl
+Okapi Weight (Un-normalized):   0.621941303836919
+Lemma: appropriate
+Okapi Weight (Un-normalized):   0.5352567977150501
+Lemma: area
+Okapi Weight (Un-normalized):   0.5234998506537019
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: calculate
+Okapi Weight (Un-normalized):   0.4705732530880934
+Lemma: capacity
+Okapi Weight (Un-normalized):   0.5872329011764961
+Lemma: composite
+Okapi Weight (Un-normalized):   0.5986488272114643
+Lemma: conduction
+Okapi Weight (Un-normalized):   0.5365073053640135
+Lemma: contact
+Okapi Weight (Un-normalized):   0.5872329011764961
+Lemma: develop
+Okapi Weight (Un-normalized):   0.4705732530880934
+Lemma: each
+Okapi Weight (Un-normalized):   0.5039463521948995
+Lemma: from
+Okapi Weight (Un-normalized):   0.4273014610728027
+Lemma: heat
+Okapi Weight (Un-normalized):   0.49747066038742516
+Lemma: jaeger
+Okapi Weight (Un-normalized):   0.6853333333333333
+Lemma: july
+Okapi Weight (Un-normalized):   0.5986488272114643
+Lemma: layer
+Okapi Weight (Un-normalized):   0.4432717920152907
+Lemma: make
+Okapi Weight (Un-normalized):   0.4432717920152907
+Lemma: math
+Okapi Weight (Un-normalized):   0.5388951687197264
+Lemma: method
+Okapi Weight (Un-normalized):   0.4432717920152907
+Lemma: pass
+Okapi Weight (Un-normalized):   0.5673383816913137
+Lemma: pp
+Okapi Weight (Un-normalized):   0.5585492743405049
+Lemma: quantity
+Okapi Weight (Un-normalized):   0.5422256882722998
+Lemma: quart
+Okapi Weight (Un-normalized):   0.5710924287923458
+Lemma: regard
+Okapi Weight (Un-normalized):   0.5462689974995967
+Lemma: resistance
+Okapi Weight (Un-normalized):   0.647961394006115
+Lemma: slab
+Okapi Weight (Un-normalized):   0.581386981138434
+Lemma: surface
+Okapi Weight (Un-normalized):   0.45460292214560544
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: thermal
+Okapi Weight (Un-normalized):   0.5092058442912109
+Lemma: through
+Okapi Weight (Un-normalized):   0.48654358403058134
+Lemma: time
+Okapi Weight (Un-normalized):   0.5173030506438603
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: total
+Okapi Weight (Un-normalized):   0.5092058442912109
+Lemma: unit
+Okapi Weight (Un-normalized):   0.5650207907583424
+Lemma: zero
+Okapi Weight (Un-normalized):   0.5229279239643001
+
+Rank#: 5
+Cosine Similarity: 0.1392802153767689
+Doc#: 144  Document Headline:  heat flow in composite slabs .
+Document Vector: 
+Lemma: analytic
+Okapi Weight (Un-normalized):   0.5167019382972893
+Lemma: base
+Okapi Weight (Un-normalized):   0.45266660678215925
+Lemma: case
+Okapi Weight (Un-normalized):   0.4322923821009632
+Lemma: composite
+Okapi Weight (Un-normalized):   0.7063467177695646
+Lemma: condition
+Okapi Weight (Un-normalized):   0.4407484493623921
+Lemma: consist
+Okapi Weight (Un-normalized):   0.4946149693976332
+Lemma: cylindrical
+Okapi Weight (Un-normalized):   0.4775719046230593
+Lemma: distribution
+Okapi Weight (Un-normalized):   0.4407484493623921
+Lemma: engine
+Okapi Weight (Un-normalized):   0.5248793893218759
+Lemma: exceed
+Okapi Weight (Un-normalized):   0.5125382923332124
+Lemma: expression
+Okapi Weight (Un-normalized):   0.517499925777888
+Lemma: exterior
+Okapi Weight (Un-normalized):   0.5557376434412213
+Lemma: first
+Okapi Weight (Un-normalized):   0.46112267404358814
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: form
+Okapi Weight (Un-normalized):   0.44730748469881665
+Lemma: fourier
+Okapi Weight (Un-normalized):   0.5312699783926726
+Lemma: from
+Okapi Weight (Un-normalized):   0.42037422468119606
+Lemma: general
+Okapi Weight (Un-normalized):   0.45266660678215925
+Lemma: heat
+Okapi Weight (Un-normalized):   0.49776015515211247
+Lemma: inner
+Okapi Weight (Un-normalized):   0.5295301929644771
+Lemma: into
+Okapi Weight (Un-normalized):   0.46112267404358814
+Lemma: jamr
+Okapi Weight (Un-normalized):   0.6129353233830845
+Lemma: limit
+Okapi Weight (Un-normalized):   0.4832788863036744
+Lemma: mayere
+Okapi Weight (Un-normalized):   0.6129353233830845
+Lemma: medium
+Okapi Weight (Un-normalized):   0.6727294599239094
+Lemma: metallic
+Okapi Weight (Un-normalized):   0.5925610987018886
+Lemma: model
+Okapi Weight (Un-normalized):   0.4571976799418633
+Lemma: negligible
+Okapi Weight (Un-normalized):   0.511892248900743
+Lemma: newtonian
+Okapi Weight (Un-normalized):   0.5009379087425747
+Lemma: not
+Okapi Weight (Un-normalized):   0.44730748469881665
+Lemma: obtain
+Okapi Weight (Un-normalized):   0.4476678247414463
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: outer
+Okapi Weight (Un-normalized):   0.5027756191683133
+Lemma: paper
+Okapi Weight (Un-normalized):   0.45266660678215925
+Lemma: parallel
+Okapi Weight (Un-normalized):   0.4894900620428264
+Lemma: plane
+Okapi Weight (Un-normalized):   0.4775719046230593
+Lemma: present
+Okapi Weight (Un-normalized):   0.42037422468119606
+Lemma: problem
+Okapi Weight (Un-normalized):   0.4407484493623921
+Lemma: radius
+Okapi Weight (Un-normalized):   0.4946149693976332
+Lemma: ratio
+Okapi Weight (Un-normalized):   0.4407484493623921
+Lemma: refractory
+Okapi Weight (Un-normalized):   0.7168836707177307
+Lemma: relatively
+Okapi Weight (Un-normalized):   0.4999740914809758
+Lemma: representative
+Okapi Weight (Un-normalized):   0.5261128762998066
+Lemma: result
+Okapi Weight (Un-normalized):   0.42037422468119606
+Lemma: rocket
+Okapi Weight (Un-normalized):   0.5084301587424047
+Lemma: second
+Okapi Weight (Un-normalized):   0.4753935902366284
+Lemma: shield
+Okapi Weight (Un-normalized):   0.733586136656956
+Lemma: simplify
+Okapi Weight (Un-normalized):   0.49216406765201626
+Lemma: slab
+Okapi Weight (Un-normalized):   0.6375096261269504
+Lemma: solution
+Okapi Weight (Un-normalized):   0.4322923821009632
+Lemma: sum
+Okapi Weight (Un-normalized):   0.5518126493394965
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.44730748469881665
+Lemma: thick
+Okapi Weight (Un-normalized):   0.5746564833616332
+Lemma: thickness
+Okapi Weight (Un-normalized):   0.46112267404358814
+Lemma: thin
+Okapi Weight (Un-normalized):   0.5187548130634752
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transfer
+Okapi Weight (Un-normalized):   0.4924092062744191
+Lemma: typical
+Okapi Weight (Un-normalized):   0.5061385733375372
+Lemma: uncooled
+Okapi Weight (Un-normalized):   0.565627838684268
+Lemma: under
+Okapi Weight (Un-normalized):   0.4844313366094089
+Lemma: wall
+Okapi Weight (Un-normalized):   0.5108118907789351

@@ -1,0 +1,38 @@
+Query:  what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack 
+Lemmas:
+Lemma: angle
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: approximate
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: attack
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: available
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: body
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: dash
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6839790575916231
+Lemma: exact
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: method
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: predict
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: presently
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749
+Lemma: pressure
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5860082304526749

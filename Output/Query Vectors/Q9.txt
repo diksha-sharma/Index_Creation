@@ -1,0 +1,26 @@
+Query:  papers on internal /slip flow/ heat transfer studies  
+Lemmas:
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: internal
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: papers
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: study
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099

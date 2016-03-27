@@ -1,0 +1,17 @@
+Query:  what is the basic mechanism of the transonic aileron buzz  
+Lemmas:
+Lemma: aileron
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6773006134969326
+Lemma: basic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6773006134969326
+Lemma: buzz
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6773006134969326
+Lemma: mechanism
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6773006134969326
+Lemma: transonic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6773006134969326

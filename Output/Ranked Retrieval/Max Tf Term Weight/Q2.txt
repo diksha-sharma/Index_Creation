@@ -1,0 +1,763 @@
+Processing Query:  what are the structural and aeroelastic problems associated with flight of high speed aircraft  
+Top 5 Documents fetched in order:  
+
+Rank#: 1
+Cosine Similarity: 0.19577396844554623
+Doc#: 12  Document Headline:  some structural and aerelastic considerations of high speed flight .
+Document Vector: 
+Lemma: acrothermoelasticity
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: ae
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: aerelastic
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: aeroelastic
+Max TF Term Weight (Un-normalized):   0.45717655183973605
+Lemma: aeronautical
+Max TF Term Weight (Un-normalized):   0.32642819453100774
+Lemma: aircraft
+Max TF Term Weight (Un-normalized):   0.29588835208907477
+Lemma: alleviate
+Max TF Term Weight (Un-normalized):   0.44568526273949477
+Lemma: analytical
+Max TF Term Weight (Un-normalized):   0.2316343916513502
+Lemma: another
+Max TF Term Weight (Un-normalized):   0.3089280062216244
+Lemma: art
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: attack
+Max TF Term Weight (Un-normalized):   0.1890575129294965
+Lemma: available
+Max TF Term Weight (Un-normalized):   0.2155575013136321
+Lemma: avenue
+Max TF Term Weight (Un-normalized):   0.49842152229352504
+Lemma: bisplinghoffrl
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: boundary
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: combine
+Max TF Term Weight (Un-normalized):   0.25619174666759414
+Lemma: concerned
+Max TF Term Weight (Un-normalized):   0.2825372530897547
+Lemma: consideration
+Max TF Term Weight (Un-normalized):   0.2060347964992109
+Lemma: demand
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: design
+Max TF Term Weight (Un-normalized):   0.17518606223180538
+Lemma: discuss
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: discussion
+Max TF Term Weight (Un-normalized):   0.2316343916513502
+Lemma: dominate
+Max TF Term Weight (Un-normalized):   0.4287079791697803
+Lemma: engineer
+Max TF Term Weight (Un-normalized):   0.36166426577565475
+Lemma: experimental
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: factor
+Max TF Term Weight (Un-normalized):   0.29003702558308997
+Lemma: failure
+Max TF Term Weight (Un-normalized):   0.2825372530897547
+Lemma: finally
+Max TF Term Weight (Un-normalized):   0.2704992005076894
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.27558676201248483
+Lemma: from
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: fundamental
+Max TF Term Weight (Un-normalized):   0.2976358649095804
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: high
+Max TF Term Weight (Un-normalized):   0.23762117335365246
+Lemma: input
+Max TF Term Weight (Un-normalized):   0.37597171961575
+Lemma: interrelation
+Max TF Term Weight (Un-normalized):   0.49842152229352504
+Lemma: into
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: largely
+Max TF Term Weight (Un-normalized):   0.33977674048902995
+Lemma: layer
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: load
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: matter
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: meet
+Max TF Term Weight (Un-normalized):   0.41472776170569703
+Lemma: method
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: mode
+Max TF Term Weight (Un-normalized):   0.2385557374233597
+Lemma: one
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: origin
+Max TF Term Weight (Un-normalized):   0.403108384017641
+Lemma: present
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: research
+Max TF Term Weight (Un-normalized):   0.2240198079156675
+Lemma: respect
+Max TF Term Weight (Un-normalized):   0.26126578250618154
+Lemma: sc
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: speed
+Max TF Term Weight (Un-normalized):   0.18384883594045223
+Lemma: state
+Max TF Term Weight (Un-normalized):   0.2240198079156675
+Lemma: structural
+Max TF Term Weight (Un-normalized):   0.43536744607206407
+Lemma: structure
+Max TF Term Weight (Un-normalized):   0.2772240315418298
+Lemma: subject
+Max TF Term Weight (Un-normalized):   0.20078565738394463
+Lemma: suggest
+Max TF Term Weight (Un-normalized):   0.2316343916513502
+Lemma: summarize
+Max TF Term Weight (Un-normalized):   0.33977674048902995
+Lemma: summary
+Max TF Term Weight (Un-normalized):   0.3448507763276174
+Lemma: thermal
+Max TF Term Weight (Un-normalized):   0.283830862173043
+Lemma: these
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: tool
+Max TF Term Weight (Un-normalized):   0.37597171961575
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: under
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: upon
+Max TF Term Weight (Un-normalized):   0.219906247196902
+Lemma: well
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+
+Rank#: 2
+Cosine Similarity: 0.12020872370863596
+Doc#: 51  Document Headline:  theory of aircraft structural models subjected to aerodynamic heating and external loads .
+Document Vector: 
+Lemma: ability
+Max TF Term Weight (Un-normalized):   0.41970451197642217
+Lemma: acceleration
+Max TF Term Weight (Un-normalized):   0.3683731392990564
+Lemma: act
+Max TF Term Weight (Un-normalized):   0.34721779943682285
+Lemma: aerodynamic
+Max TF Term Weight (Un-normalized):   0.1989385960258382
+Lemma: aerodynamically
+Max TF Term Weight (Un-normalized):   0.38490806777593617
+Lemma: aircraft
+Max TF Term Weight (Un-normalized):   0.3697151203916834
+Lemma: analysis
+Max TF Term Weight (Un-normalized):   0.09469668283749504
+Lemma: angular
+Max TF Term Weight (Un-normalized):   0.6079621669602472
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: by
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: case
+Max TF Term Weight (Un-normalized):   0.07504534562005717
+Lemma: construct
+Max TF Term Weight (Un-normalized):   0.34434280394207745
+Lemma: cool
+Max TF Term Weight (Un-normalized):   0.20796894495324195
+Lemma: correctly
+Max TF Term Weight (Un-normalized):   0.3723561705576746
+Lemma: deformation
+Max TF Term Weight (Un-normalized):   0.23457297835969704
+Lemma: determination
+Max TF Term Weight (Un-normalized):   0.21709036987629976
+Lemma: determine
+Max TF Term Weight (Un-normalized):   0.13648716706497074
+Lemma: dimensional
+Max TF Term Weight (Un-normalized):   0.12239368703880468
+Lemma: due
+Max TF Term Weight (Un-normalized):   0.15009069124011434
+Lemma: each
+Max TF Term Weight (Un-normalized):   0.18027194075193229
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.04734834141874752
+Lemma: except
+Max TF Term Weight (Un-normalized):   0.2225580245927858
+Lemma: external
+Max TF Term Weight (Un-normalized):   0.324666373226308
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.15728778560525636
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: flux
+Max TF Term Weight (Un-normalized):   0.30101954290209976
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.13648716706497074
+Lemma: heated
+Max TF Term Weight (Un-normalized):   0.26857993176402206
+Lemma: heating
+Max TF Term Weight (Un-normalized):   0.2999755427230034
+Lemma: investigate
+Max TF Term Weight (Un-normalized):   0.15009069124011434
+Lemma: load
+Max TF Term Weight (Un-normalized):   0.21456433473004255
+Lemma: material
+Max TF Term Weight (Un-normalized):   0.20796894495324195
+Lemma: may
+Max TF Term Weight (Un-normalized):   0.10993944418650882
+Lemma: model
+Max TF Term Weight (Un-normalized):   0.2019551469316696
+Lemma: naca
+Max TF Term Weight (Un-normalized):   0.13292359933318476
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: osullivanwj
+Max TF Term Weight (Un-normalized):   0.494847511962445
+Lemma: point
+Max TF Term Weight (Un-normalized):   0.12239368703880468
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.09469668283749504
+Lemma: purpose
+Max TF Term Weight (Un-normalized):   0.19743903265886184
+Lemma: require
+Max TF Term Weight (Un-normalized):   0.203351698238397
+Lemma: respect
+Max TF Term Weight (Un-normalized):   0.29121669227282293
+Lemma: same
+Max TF Term Weight (Un-normalized):   0.18633397141278518
+Lemma: show
+Max TF Term Weight (Un-normalized):   0.07504534562005717
+Lemma: similar
+Max TF Term Weight (Un-normalized):   0.23772913556624828
+Lemma: simulate
+Max TF Term Weight (Un-normalized):   0.2967219487272339
+Lemma: simulation
+Max TF Term Weight (Un-normalized):   0.3445124225462059
+Lemma: simultaneous
+Max TF Term Weight (Un-normalized):   0.34434280394207745
+Lemma: so
+Max TF Term Weight (Un-normalized):   0.18027194075193229
+Lemma: speed
+Max TF Term Weight (Un-normalized):   0.09469668283749504
+Lemma: stress
+Max TF Term Weight (Un-normalized):   0.15009069124011434
+Lemma: structural
+Max TF Term Weight (Un-normalized):   0.3775247524767742
+Lemma: structure
+Max TF Term Weight (Un-normalized):   0.25907710997230315
+Lemma: study
+Max TF Term Weight (Un-normalized):   0.10993944418650882
+Lemma: subject
+Max TF Term Weight (Un-normalized):   0.25247661425540147
+Lemma: supersonic
+Max TF Term Weight (Un-normalized):   0.10993944418650882
+Lemma: surface
+Max TF Term Weight (Un-normalized):   0.09469668283749504
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.10993944418650882
+Lemma: that
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: theory
+Max TF Term Weight (Un-normalized):   0.07504534562005717
+Lemma: thermally
+Max TF Term Weight (Un-normalized):   0.3723561705576746
+Lemma: those
+Max TF Term Weight (Un-normalized):   0.21020680976471226
+Lemma: through
+Max TF Term Weight (Un-normalized):   0.15009069124011434
+Lemma: time
+Max TF Term Weight (Un-normalized):   0.15009069124011434
+Lemma: tn
+Max TF Term Weight (Un-normalized):   0.15728778560525636
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transient
+Max TF Term Weight (Un-normalized):   0.2519844684427514
+Lemma: variation
+Max TF Term Weight (Un-normalized):   0.1637983493940491
+Lemma: velocity
+Max TF Term Weight (Un-normalized):   0.11756364666545953
+Lemma: without
+Max TF Term Weight (Un-normalized):   0.19743903265886184
+Lemma: withstand
+Max TF Term Weight (Un-normalized):   0.4474991705436974
+Lemma: zero
+Max TF Term Weight (Un-normalized):   0.19526899039770054
+
+Rank#: 3
+Cosine Similarity: 0.10598162050123715
+Doc#: 746  Document Headline:  aeroelastic problems in connection with high speed flight .
+Document Vector: 
+Lemma: aero
+Max TF Term Weight (Un-normalized):   0.2060347964992109
+Lemma: aerodynamic
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: aeroelastic
+Max TF Term Weight (Un-normalized):   0.45717655183973605
+Lemma: aeroelasticity
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: aerofoil
+Max TF Term Weight (Un-normalized):   0.29129199697738994
+Lemma: aspect
+Max TF Term Weight (Un-normalized):   0.219906247196902
+Lemma: attack
+Max TF Term Weight (Un-normalized):   0.1890575129294965
+Lemma: both
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: brief
+Max TF Term Weight (Un-normalized):   0.29129199697738994
+Lemma: bring
+Max TF Term Weight (Un-normalized):   0.3448507763276174
+Lemma: broadbenteg
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: case
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: change
+Max TF Term Weight (Un-normalized):   0.1824374837498757
+Lemma: connection
+Max TF Term Weight (Un-normalized):   0.31875873712534186
+Lemma: consider
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: control
+Max TF Term Weight (Un-normalized):   0.23517374330390606
+Lemma: damage
+Max TF Term Weight (Un-normalized):   0.3929490031854645
+Lemma: damp
+Max TF Term Weight (Un-normalized):   0.26368129777015153
+Lemma: derivative
+Max TF Term Weight (Un-normalized):   0.25619174666759414
+Lemma: design
+Max TF Term Weight (Un-normalized):   0.17518606223180538
+Lemma: development
+Max TF Term Weight (Un-normalized):   0.2155575013136321
+Lemma: difficult
+Max TF Term Weight (Un-normalized):   0.33977674048902995
+Lemma: discuss
+Max TF Term Weight (Un-normalized):   0.18342303381616776
+Lemma: during
+Max TF Term Weight (Un-normalized):   0.25352191693797493
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.07095771554326075
+Lemma: efflux
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: field
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.17518606223180538
+Lemma: flutter
+Max TF Term Weight (Un-normalized):   0.2448996053555501
+Lemma: fold
+Max TF Term Weight (Un-normalized):   0.49842152229352504
+Lemma: from
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: fuselage
+Max TF Term Weight (Un-normalized):   0.31875873712534186
+Lemma: give
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: hand
+Max TF Term Weight (Un-normalized):   0.43921581031169765
+Lemma: have
+Max TF Term Weight (Un-normalized):   0.11246531827290702
+Lemma: heating
+Max TF Term Weight (Un-normalized):   0.219906247196902
+Lemma: high
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: higher
+Max TF Term Weight (Un-normalized):   0.19514734943993142
+Lemma: increase
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: jet
+Max TF Term Weight (Un-normalized):   0.20078565738394463
+Lemma: kinetic
+Max TF Term Weight (Un-normalized):   0.31875873712534186
+Lemma: lead
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: mach
+Max TF Term Weight (Un-normalized):   0.11246531827290702
+Lemma: make
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: massbalance
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: mention
+Max TF Term Weight (Un-normalized):   0.33527351264378497
+Lemma: merit
+Max TF Term Weight (Un-normalized):   0.37597171961575
+Lemma: method
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: more
+Max TF Term Weight (Un-normalized):   0.21287314662978224
+Lemma: new
+Max TF Term Weight (Un-normalized):   0.2155575013136321
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.07095771554326075
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: one
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: other
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: past
+Max TF Term Weight (Un-normalized):   0.21094503821612123
+Lemma: possible
+Max TF Term Weight (Un-normalized):   0.1890575129294965
+Lemma: prevention
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.18384883594045223
+Lemma: provide
+Max TF Term Weight (Un-normalized):   0.1824374837498757
+Lemma: recent
+Max TF Term Weight (Un-normalized):   0.2448996053555501
+Lemma: relative
+Max TF Term Weight (Un-normalized):   0.2704992005076894
+Lemma: require
+Max TF Term Weight (Un-normalized):   0.1824374837498757
+Lemma: review
+Max TF Term Weight (Un-normalized):   0.26126578250618154
+Lemma: roy
+Max TF Term Weight (Un-normalized):   0.30206909979668417
+Lemma: slender
+Max TF Term Weight (Un-normalized):   0.2060347964992109
+Lemma: soc
+Max TF Term Weight (Un-normalized):   0.2704992005076894
+Lemma: speed
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: steadily
+Max TF Term Weight (Un-normalized):   0.44568526273949477
+Lemma: stiffness
+Max TF Term Weight (Un-normalized):   0.4191394626283513
+Lemma: surface
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: ten
+Max TF Term Weight (Un-normalized):   0.4287079791697803
+Lemma: these
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: thinner
+Max TF Term Weight (Un-normalized):   0.4287079791697803
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: two
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: various
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: year
+Max TF Term Weight (Un-normalized):   0.33527351264378497
+
+Rank#: 4
+Cosine Similarity: 0.09212644290484169
+Doc#: 1263  Document Headline:  turbulent heat transfer through a highly cooled, partially dissociated boundary layer .
+Document Vector: 
+Lemma: achieve
+Max TF Term Weight (Un-normalized):   0.2650232758559818
+Lemma: adamsmc
+Max TF Term Weight (Un-normalized):   0.5169925001442313
+Lemma: ae
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: after
+Max TF Term Weight (Un-normalized):   0.2473361673648132
+Lemma: air
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: analytically
+Max TF Term Weight (Un-normalized):   0.3144905093289444
+Lemma: approximate
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: approximation
+Max TF Term Weight (Un-normalized):   0.15680742013812832
+Lemma: atomic
+Max TF Term Weight (Un-normalized):   0.38901953209245116
+Lemma: base
+Max TF Term Weight (Un-normalized):   0.12787094354202677
+Lemma: be
+Max TF Term Weight (Un-normalized):   0.11547972218388075
+Lemma: between
+Max TF Term Weight (Un-normalized):   0.14760544189911234
+Lemma: blunt
+Max TF Term Weight (Un-normalized):   0.21117564556912427
+Lemma: body
+Max TF Term Weight (Un-normalized):   0.15959585762156642
+Lemma: both
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: boundary
+Max TF Term Weight (Un-normalized):   0.09390089900783245
+Lemma: by
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: can
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: case
+Max TF Term Weight (Un-normalized):   0.07840371006906416
+Lemma: cent
+Max TF Term Weight (Un-normalized):   0.25166271215315245
+Lemma: certain
+Max TF Term Weight (Un-normalized):   0.17112851156288025
+Lemma: characteristic
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: classical
+Max TF Term Weight (Un-normalized):   0.25373144054811886
+Lemma: cold
+Max TF Term Weight (Un-normalized):   0.32865318530037435
+Lemma: condition
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: conduct
+Max TF Term Weight (Un-normalized):   0.18833931484385696
+Lemma: consider
+Max TF Term Weight (Un-normalized):   0.14760544189911234
+Lemma: cool
+Max TF Term Weight (Un-normalized):   0.3200224582569771
+Lemma: correlate
+Max TF Term Weight (Un-normalized):   0.25373144054811886
+Lemma: correspond
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: could
+Max TF Term Weight (Un-normalized):   0.22059574503584292
+Lemma: cylinder
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: cylindrical
+Max TF Term Weight (Un-normalized):   0.18833931484385696
+Lemma: datum
+Max TF Term Weight (Un-normalized):   0.12787094354202677
+Lemma: determine
+Max TF Term Weight (Un-normalized):   0.11485935917722451
+Lemma: difference
+Max TF Term Weight (Un-normalized):   0.2137938261231498
+Lemma: diffusion
+Max TF Term Weight (Un-normalized):   0.26842230550695706
+Lemma: dissociate
+Max TF Term Weight (Un-normalized):   0.3723930449553187
+Lemma: dissociation
+Max TF Term Weight (Un-normalized):   0.28059918874925394
+Lemma: distinguish
+Max TF Term Weight (Un-normalized):   0.418058033198306
+Lemma: due
+Max TF Term Weight (Un-normalized):   0.15680742013812832
+Lemma: each
+Max TF Term Weight (Un-normalized):   0.18833931484385696
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.0635702036700119
+Lemma: equation
+Max TF Term Weight (Un-normalized):   0.10075638898017529
+Lemma: experiment
+Max TF Term Weight (Un-normalized):   0.20151277796035058
+Lemma: experimental
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: experimentally
+Max TF Term Weight (Un-normalized):   0.24507038555679764
+Lemma: external
+Max TF Term Weight (Un-normalized):   0.27004161720505593
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.2650829816303625
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: fluid
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: form
+Max TF Term Weight (Un-normalized):   0.11485935917722451
+Lemma: from
+Max TF Term Weight (Un-normalized):   0.04946723347296264
+Lemma: ft
+Max TF Term Weight (Un-normalized):   0.2667430249129211
+Lemma: govern
+Max TF Term Weight (Un-normalized):   0.24507038555679764
+Lemma: gradient
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.18528505281957922
+Lemma: hemisphere
+Max TF Term Weight (Un-normalized):   0.2872737817897823
+Lemma: high
+Max TF Term Weight (Un-normalized):   0.16432659265018718
+Lemma: highly
+Max TF Term Weight (Un-normalized):   0.36059723429206486
+Lemma: however
+Max TF Term Weight (Un-normalized):   0.2278967963201991
+Lemma: important
+Max TF Term Weight (Un-normalized):   0.2650829816303624
+Lemma: include
+Max TF Term Weight (Un-normalized):   0.12787094354202677
+Lemma: large
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: larger
+Max TF Term Weight (Un-normalized):   0.25373144054811886
+Lemma: layer
+Max TF Term Weight (Un-normalized):   0.14882940371141887
+Lemma: limitation
+Max TF Term Weight (Un-normalized):   0.29219753619221395
+Lemma: local
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: mach
+Max TF Term Weight (Un-normalized):   0.11547972218388075
+Lemma: maximum
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: model
+Max TF Term Weight (Un-normalized):   0.13887208137089432
+Lemma: molecule
+Max TF Term Weight (Un-normalized):   0.29219753619221395
+Lemma: negligible
+Max TF Term Weight (Un-normalized):   0.27166677931535277
+Lemma: nonslender
+Max TF Term Weight (Un-normalized):   0.5169925001442313
+Lemma: not
+Max TF Term Weight (Un-normalized):   0.14760544189911234
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.085338083231111
+Lemma: obtain
+Max TF Term Weight (Un-normalized):   0.11547972218388075
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: partially
+Max TF Term Weight (Un-normalized):   0.3392453470391163
+Lemma: per
+Max TF Term Weight (Un-normalized):   0.20219547868018978
+Lemma: portion
+Max TF Term Weight (Un-normalized):   0.2952108837982247
+Lemma: present
+Max TF Term Weight (Un-normalized):   0.0635702036700119
+Lemma: pressure
+Max TF Term Weight (Un-normalized):   0.04946723347296264
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: probsteinrf
+Max TF Term Weight (Un-normalized):   0.40213314096700675
+Lemma: property
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: propose
+Max TF Term Weight (Un-normalized):   0.24507038555679764
+Lemma: represent
+Max TF Term Weight (Un-normalized):   0.20219547868018978
+Lemma: result
+Max TF Term Weight (Un-normalized):   0.04946723347296264
+Lemma: revolution
+Max TF Term Weight (Un-normalized):   0.20627465361109093
+Lemma: reynold
+Max TF Term Weight (Un-normalized):   0.17846412416921226
+Lemma: roseph
+Max TF Term Weight (Un-normalized):   0.4384867655654138
+Lemma: sc
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: sec
+Max TF Term Weight (Un-normalized):   0.30619349661079576
+Lemma: semiempirical
+Max TF Term Weight (Un-normalized):   0.3392453470391163
+Lemma: shock
+Max TF Term Weight (Un-normalized):   0.14760544189911234
+Lemma: show
+Max TF Term Weight (Un-normalized):   0.10075638898017529
+Lemma: similar
+Max TF Term Weight (Un-normalized):   0.17733817701498944
+Lemma: simulate
+Max TF Term Weight (Un-normalized):   0.3100005929337746
+Lemma: simultaneously
+Max TF Term Weight (Un-normalized):   0.33348172136657533
+Lemma: speed
+Max TF Term Weight (Un-normalized):   0.14571918531995248
+Lemma: structural
+Max TF Term Weight (Un-normalized):   0.2596004555566981
+Lemma: such
+Max TF Term Weight (Un-normalized):   0.20454273607309637
+Lemma: surface
+Max TF Term Weight (Un-normalized):   0.09893446694592528
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.11485935917722451
+Lemma: that
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: theory
+Max TF Term Weight (Un-normalized):   0.10075638898017529
+Lemma: these
+Max TF Term Weight (Un-normalized):   0.07840371006906416
+Lemma: through
+Max TF Term Weight (Un-normalized):   0.20151277796035058
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.20627465361109093
+Lemma: tube
+Max TF Term Weight (Un-normalized):   0.27474584923913614
+Lemma: turbulent
+Max TF Term Weight (Un-normalized):   0.29522126340360677
+Lemma: up
+Max TF Term Weight (Un-normalized):   0.16432659265018718
+Lemma: value
+Max TF Term Weight (Un-normalized):   0.1271404073400238
+Lemma: vary
+Max TF Term Weight (Un-normalized):   0.15680742013812832
+Lemma: way
+Max TF Term Weight (Un-normalized):   0.2596004555566981
+Lemma: would
+Max TF Term Weight (Un-normalized):   0.2172757914399585
+
+Rank#: 5
+Cosine Similarity: 0.09198325405365826
+Doc#: 884  Document Headline:  the estimation of fatigue damage on structural elements .
+Document Vector: 
+Lemma: aircraft
+Max TF Term Weight (Un-normalized):   0.37593062673082334
+Lemma: analyse
+Max TF Term Weight (Un-normalized):   0.3712142419777961
+Lemma: below
+Max TF Term Weight (Un-normalized):   0.2455555343226533
+Lemma: by
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: chilverah
+Max TF Term Weight (Un-normalized):   0.5754887502163468
+Lemma: damage
+Max TF Term Weight (Un-normalized):   0.6717479240528145
+Lemma: datum
+Max TF Term Weight (Un-normalized):   0.14233918184007752
+Lemma: element
+Max TF Term Weight (Un-normalized):   0.43234526756271335
+Lemma: estimation
+Max TF Term Weight (Un-normalized):   0.5227068580946574
+Lemma: fatigue
+Max TF Term Weight (Un-normalized):   0.5388688254608115
+Lemma: fly
+Max TF Term Weight (Un-normalized):   0.3375047528367762
+Lemma: ft
+Max TF Term Weight (Un-normalized):   0.29692424937158485
+Lemma: gust
+Max TF Term Weight (Un-normalized):   0.5227068580946574
+Lemma: infinitesimal
+Max TF Term Weight (Un-normalized):   0.4006547849434648
+Lemma: interval
+Max TF Term Weight (Un-normalized):   0.377630005715336
+Lemma: joint
+Max TF Term Weight (Un-normalized):   0.39256906491107796
+Lemma: load
+Max TF Term Weight (Un-normalized):   0.15458506753150733
+Lemma: method
+Max TF Term Weight (Un-normalized):   0.08727486976577567
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.055064312074301874
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: one
+Max TF Term Weight (Un-normalized):   0.12785537323096693
+Lemma: present
+Max TF Term Weight (Un-normalized):   0.055064312074301874
+Lemma: ra
+Max TF Term Weight (Un-normalized):   0.22507332948272132
+Lemma: spectrum
+Max TF Term Weight (Un-normalized):   0.3408384311953472
+Lemma: structural
+Max TF Term Weight (Un-normalized):   0.47311562641639787
+Lemma: structure
+Max TF Term Weight (Un-normalized):   0.21513024299674258
+Lemma: study
+Max TF Term Weight (Un-normalized):   0.12785537323096693
+Lemma: subject
+Max TF Term Weight (Un-normalized):   0.2096493796058092
+Lemma: supply
+Max TF Term Weight (Un-normalized):   0.39256906491107796
+Lemma: taylor
+Max TF Term Weight (Un-normalized):   0.3408384311953472
+Lemma: term
+Max TF Term Weight (Un-normalized):   0.16519293622290562
+Lemma: tnstruct
+Max TF Term Weight (Un-normalized):   0.48810031215394606
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: use
+Max TF Term Weight (Un-normalized):   0.055064312074301874
+Lemma: whole
+Max TF Term Weight (Un-normalized):   0.3375047528367762

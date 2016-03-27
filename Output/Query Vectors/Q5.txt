@@ -1,0 +1,26 @@
+Query:  what chemical kinetic system is applicable to hypersonic aerodynamic problems  
+Lemmas:
+Lemma: aerodynamic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: applicable
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: chemical
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: hypersonic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: kinetic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: system
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099

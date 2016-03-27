@@ -1,0 +1,29 @@
+Query:  how can the aerodynamic performance of channel flow ground effect machines be calculated  
+Lemmas:
+Lemma: aerodynamic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: calculate
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: can
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: channel
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: ground
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: machine
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675
+Lemma: performance
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6226600985221675

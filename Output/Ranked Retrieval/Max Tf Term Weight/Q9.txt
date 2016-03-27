@@ -1,0 +1,651 @@
+Processing Query:  papers on internal /slip flow/ heat transfer studies  
+Top 5 Documents fetched in order:  
+
+Rank#: 1
+Cosine Similarity: 0.1044910280420149
+Doc#: 550  Document Headline:  laminar heat transfer in tubes under slip-flow conditions .
+Document Vector: 
+Lemma: analysis
+Max TF Term Weight (Un-normalized):   0.10252909937145392
+Lemma: analytically
+Max TF Term Weight (Un-normalized):   0.32591704062033683
+Lemma: asme
+Max TF Term Weight (Un-normalized):   0.32591704062033683
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: both
+Max TF Term Weight (Un-normalized):   0.18986666458933038
+Lemma: carry
+Max TF Term Weight (Un-normalized):   0.21376932742219448
+Lemma: case
+Max TF Term Weight (Un-normalized):   0.08125238886823377
+Lemma: characteristic
+Max TF Term Weight (Un-normalized):   0.14391778588729218
+Lemma: condition
+Max TF Term Weight (Un-normalized):   0.10252909937145392
+Lemma: consideration
+Max TF Term Weight (Un-normalized):   0.20028498705527228
+Lemma: continuum
+Max TF Term Weight (Un-normalized):   0.35827177336291083
+Lemma: creep
+Max TF Term Weight (Un-normalized):   0.27282624724421944
+Lemma: decrease
+Max TF Term Weight (Un-normalized):   0.20028498705527228
+Lemma: density
+Max TF Term Weight (Un-normalized):   0.20505819874290784
+Lemma: develop
+Max TF Term Weight (Un-normalized):   0.1325169385539607
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.07841274914373175
+Lemma: extension
+Max TF Term Weight (Un-normalized):   0.24096592547540846
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: fluid
+Max TF Term Weight (Un-normalized):   0.14391778588729218
+Lemma: flux
+Max TF Term Weight (Un-normalized):   0.32591704062033683
+Lemma: free
+Max TF Term Weight (Un-normalized):   0.1325169385539607
+Lemma: fully
+Max TF Term Weight (Un-normalized):   0.2831629163384759
+Lemma: give
+Max TF Term Weight (Un-normalized):   0.05126454968572696
+Lemma: have
+Max TF Term Weight (Un-normalized):   0.08125238886823377
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.18206876523418575
+Lemma: include
+Max TF Term Weight (Un-normalized):   0.1325169385539607
+Lemma: increase
+Max TF Term Weight (Un-normalized):   0.1325169385539607
+Lemma: jump
+Max TF Term Weight (Un-normalized):   0.516968292092301
+Lemma: laminar
+Max TF Term Weight (Un-normalized):   0.15703634026772897
+Lemma: linsh
+Max TF Term Weight (Un-normalized):   0.5357766313185501
+Lemma: low
+Max TF Term Weight (Un-normalized):   0.16250477773646754
+Lemma: lower
+Max TF Term Weight (Un-normalized):   0.21376932742219448
+Lemma: major
+Max TF Term Weight (Un-normalized):   0.2764347244412529
+Lemma: make
+Max TF Term Weight (Un-normalized):   0.08125238886823377
+Lemma: manifest
+Max TF Term Weight (Un-normalized):   0.4167440331315116
+Lemma: mean
+Max TF Term Weight (Un-normalized):   0.23504603792541467
+Lemma: modification
+Max TF Term Weight (Un-normalized):   0.27282624724421944
+Lemma: move
+Max TF Term Weight (Un-normalized):   0.231898366652749
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.05126454968572696
+Lemma: nusselt
+Max TF Term Weight (Un-normalized):   0.3730072410937117
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: out
+Max TF Term Weight (Un-normalized):   0.17734620409800658
+Lemma: paper
+Max TF Term Weight (Un-normalized):   0.1325169385539607
+Lemma: path
+Max TF Term Weight (Un-normalized):   0.28153737592350603
+Lemma: phenomenon
+Max TF Term Weight (Un-normalized):   0.22861075378373358
+Lemma: rarefaction
+Max TF Term Weight (Un-normalized):   0.4332475319470962
+Lemma: regime
+Max TF Term Weight (Un-normalized):   0.2831629163384759
+Lemma: result
+Max TF Term Weight (Un-normalized):   0.05126454968572696
+Lemma: shear
+Max TF Term Weight (Un-normalized):   0.19518233557301914
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.49851313050634677
+Lemma: sparrowem
+Max TF Term Weight (Un-normalized):   0.48451208163282317
+Lemma: study
+Max TF Term Weight (Un-normalized):   0.11903259818703853
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.18206876523418575
+Lemma: than
+Max TF Term Weight (Un-normalized):   0.11903259818703853
+Lemma: thermal
+Max TF Term Weight (Un-normalized):   0.20505819874290784
+Lemma: those
+Max TF Term Weight (Un-normalized):   0.16250477773646754
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.17482584914510846
+Lemma: tube
+Max TF Term Weight (Un-normalized):   0.33889426352164925
+Lemma: under
+Max TF Term Weight (Un-normalized):   0.14391778588729218
+Lemma: uniform
+Max TF Term Weight (Un-normalized):   0.23396783130083135
+Lemma: velocity
+Max TF Term Weight (Un-normalized):   0.10252909937145392
+Lemma: wa
+Max TF Term Weight (Un-normalized):   0.48451208163282317
+Lemma: wall
+Max TF Term Weight (Un-normalized):   0.24273820609335534
+Lemma: wherein
+Max TF Term Weight (Un-normalized):   0.39185884543125793
+Lemma: work
+Max TF Term Weight (Un-normalized):   0.1837814882396877
+
+Rank#: 2
+Cosine Similarity: 0.09867553105197704
+Doc#: 306  Document Headline:  second approximation to laminar compressible boundary layer on flat plate in slip flow .
+Document Vector: 
+Lemma: and
+Max TF Term Weight (Un-normalized):   0.24149936869353872
+Lemma: approximation
+Max TF Term Weight (Un-normalized):   0.1592424314547022
+Lemma: assumption
+Max TF Term Weight (Un-normalized):   0.1800920037631861
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: between
+Max TF Term Weight (Un-normalized):   0.11664297272793914
+Lemma: boundary
+Max TF Term Weight (Un-normalized):   0.08264742902586386
+Lemma: change
+Max TF Term Weight (Un-normalized):   0.22592209810188785
+Lemma: compressible
+Max TF Term Weight (Un-normalized):   0.24166140487300822
+Lemma: consideration
+Max TF Term Weight (Un-normalized):   0.19626418845529023
+Lemma: constant
+Max TF Term Weight (Un-normalized):   0.14102858065770377
+Lemma: continuum
+Max TF Term Weight (Un-normalized):   0.35107932890698595
+Lemma: decrease
+Max TF Term Weight (Un-normalized):   0.19626418845529023
+Lemma: due
+Max TF Term Weight (Un-normalized):   0.20701554073023642
+Lemma: edge
+Max TF Term Weight (Un-normalized):   0.14102858065770377
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.06530613204919503
+Lemma: explicitly
+Max TF Term Weight (Un-normalized):   0.35814234142147783
+Lemma: find
+Max TF Term Weight (Un-normalized):   0.10047078803583497
+Lemma: first
+Max TF Term Weight (Un-normalized):   0.2479422870775916
+Lemma: flat
+Max TF Term Weight (Un-normalized):   0.18333749124885151
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: friction
+Max TF Term Weight (Un-normalized):   0.2669363880568726
+Lemma: give
+Max TF Term Weight (Un-normalized):   0.06530613204919503
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.15163614277344992
+Lemma: increase
+Max TF Term Weight (Un-normalized):   0.12985660974526858
+Lemma: interaction
+Max TF Term Weight (Un-normalized):   0.2612245281967801
+Lemma: into
+Max TF Term Weight (Un-normalized):   0.15070618205375244
+Lemma: know
+Max TF Term Weight (Un-normalized):   0.19626418845529023
+Lemma: laminar
+Max TF Term Weight (Un-normalized):   0.15163614277344992
+Lemma: law
+Max TF Term Weight (Un-normalized):   0.23612844129828678
+Lemma: layer
+Max TF Term Weight (Un-normalized):   0.13099307578700747
+Lemma: make
+Max TF Term Weight (Un-normalized):   0.0796212157273511
+Lemma: maslensh
+Max TF Term Weight (Un-normalized):   0.44529588362487266
+Lemma: naca
+Max TF Term Weight (Un-normalized):   0.14102858065770377
+Lemma: need
+Max TF Term Weight (Un-normalized):   0.26734915478169163
+Lemma: no
+Max TF Term Weight (Un-normalized):   0.216942274822645
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.05023539401791748
+Lemma: obtain
+Max TF Term Weight (Un-normalized):   0.0796212157273511
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: order
+Max TF Term Weight (Un-normalized):   0.24864112993214887
+Lemma: outer
+Max TF Term Weight (Un-normalized):   0.329429868467006
+Lemma: over
+Max TF Term Weight (Un-normalized):   0.11664297272793914
+Lemma: plate
+Max TF Term Weight (Un-normalized):   0.1688139024143132
+Lemma: prandtl
+Max TF Term Weight (Un-normalized):   0.2240213044582042
+Lemma: regard
+Max TF Term Weight (Un-normalized):   0.26913873592347315
+Lemma: second
+Max TF Term Weight (Un-normalized):   0.1858930472803693
+Lemma: shear
+Max TF Term Weight (Un-normalized):   0.19126397467562126
+Lemma: skin
+Max TF Term Weight (Un-normalized):   0.19626418845529023
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.4782975409504383
+Lemma: solution
+Max TF Term Weight (Un-normalized):   0.13099307578700747
+Lemma: stream
+Max TF Term Weight (Un-normalized):   0.12985660974526858
+Lemma: subsonic
+Max TF Term Weight (Un-normalized):   0.1800920037631861
+Lemma: supersonic
+Max TF Term Weight (Un-normalized):   0.11664297272793914
+Lemma: take
+Max TF Term Weight (Un-normalized):   0.17378591044028668
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.15163614277344992
+Lemma: term
+Max TF Term Weight (Un-normalized):   0.15070618205375244
+Lemma: that
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: tn
+Max TF Term Weight (Un-normalized):   0.16687836674585665
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.1688139024143132
+Lemma: velocity
+Max TF Term Weight (Un-normalized):   0.10047078803583497
+Lemma: viscosity
+Max TF Term Weight (Un-normalized):   0.2240213044582042
+Lemma: wall
+Max TF Term Weight (Un-normalized):   0.18333749124885151
+Lemma: well
+Max TF Term Weight (Un-normalized):   0.15070618205375244
+Lemma: zero
+Max TF Term Weight (Un-normalized):   0.216942274822645
+
+Rank#: 3
+Cosine Similarity: 0.09501719319079088
+Doc#: 21  Document Headline:  on heat transfer in slip flow .
+Document Vector: 
+Lemma: analysis
+Max TF Term Weight (Un-normalized):   0.11012862414860375
+Lemma: author
+Max TF Term Weight (Un-normalized):   0.2202572482972075
+Lemma: boundary
+Max TF Term Weight (Un-normalized):   0.07621876736987575
+Lemma: by
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: cleveland
+Max TF Term Weight (Un-normalized):   0.48810031215394606
+Lemma: consider
+Max TF Term Weight (Un-normalized):   0.17697449731379866
+Lemma: effect
+Max TF Term Weight (Un-normalized):   0.055064312074301874
+Lemma: eg
+Max TF Term Weight (Un-normalized):   0.3658393706105377
+Lemma: flat
+Max TF Term Weight (Un-normalized):   0.15458506753150733
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.18291968530526884
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: friction
+Max TF Term Weight (Un-normalized):   0.22507332948272132
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.17697449731379866
+Lemma: impulsive
+Max TF Term Weight (Un-normalized):   0.48810031215394606
+Lemma: infinite
+Max TF Term Weight (Un-normalized):   0.23798399737957068
+Lemma: laboratory
+Max TF Term Weight (Un-normalized):   0.27776609201412705
+Lemma: laminar
+Max TF Term Weight (Un-normalized):   0.17697449731379866
+Lemma: layer
+Max TF Term Weight (Un-normalized):   0.12080388813244233
+Lemma: lewi
+Max TF Term Weight (Un-normalized):   0.4102958139934412
+Lemma: maslen
+Max TF Term Weight (Un-normalized):   0.48810031215394606
+Lemma: motion
+Max TF Term Weight (Un-normalized):   0.1904912222483514
+Lemma: naca
+Max TF Term Weight (Un-normalized):   0.15458506753150733
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.055064312074301874
+Lemma: ohio
+Max TF Term Weight (Un-normalized):   0.44763337698537986
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: other
+Max TF Term Weight (Un-normalized):   0.14233918184007752
+Lemma: over
+Max TF Term Weight (Un-normalized):   0.12785537323096693
+Lemma: perturbation
+Max TF Term Weight (Un-normalized):   0.32525886714534635
+Lemma: plate
+Max TF Term Weight (Un-normalized):   0.19702265550231807
+Lemma: propulsion
+Max TF Term Weight (Un-normalized):   0.35007422761089363
+Lemma: reference
+Max TF Term Weight (Un-normalized):   0.370269323354906
+Lemma: skin
+Max TF Term Weight (Un-normalized):   0.21513024299674258
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.48456477728187297
+Lemma: stephen
+Max TF Term Weight (Un-normalized):   0.5754887502163468
+Lemma: studiesdash
+Max TF Term Weight (Un-normalized):   0.5754887502163468
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.19702265550231807
+Lemma: usual
+Max TF Term Weight (Un-normalized):   0.2889735183435726
+Lemma: while
+Max TF Term Weight (Un-normalized):   0.26750138156673225
+
+Rank#: 4
+Cosine Similarity: 0.09397307278002252
+Doc#: 22  Document Headline:  on slip-flow heat transfer to a flat plate .
+Document Vector: 
+Lemma: account
+Max TF Term Weight (Un-normalized):   0.2155575013136321
+Lemma: ae
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: aero
+Max TF Term Weight (Un-normalized):   0.2060347964992109
+Lemma: appropriate
+Max TF Term Weight (Un-normalized):   0.26126578250618154
+Lemma: assume
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: behavior
+Max TF Term Weight (Un-normalized):   0.23517374330390606
+Lemma: boundary
+Max TF Term Weight (Un-normalized):   0.07095771554326075
+Lemma: condition
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: confirm
+Max TF Term Weight (Un-normalized):   0.3555197527697774
+Lemma: continuum
+Max TF Term Weight (Un-normalized):   0.36855708958289396
+Lemma: energy
+Max TF Term Weight (Un-normalized):   0.20078565738394463
+Lemma: equation
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: expression
+Max TF Term Weight (Un-normalized):   0.2060347964992109
+Lemma: find
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: flat
+Max TF Term Weight (Un-normalized):   0.19920349198833642
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: fluid
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: free
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: from
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: gas
+Max TF Term Weight (Un-normalized):   0.1671699876428717
+Lemma: gradient
+Max TF Term Weight (Un-normalized):   0.1890575129294965
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: influence
+Max TF Term Weight (Un-normalized):   0.19514734943993142
+Lemma: into
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+Lemma: jump
+Max TF Term Weight (Un-normalized):   0.403108384017641
+Lemma: june
+Max TF Term Weight (Un-normalized):   0.3929490031854645
+Lemma: knudsen
+Max TF Term Weight (Un-normalized):   0.44568526273949477
+Lemma: large
+Max TF Term Weight (Un-normalized):   0.14804939782991433
+Lemma: layer
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: maslen
+Max TF Term Weight (Un-normalized):   0.46746402125972736
+Lemma: mean
+Max TF Term Weight (Un-normalized):   0.2417937724835268
+Lemma: move
+Max TF Term Weight (Un-normalized):   0.2385557374233597
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: omanra
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: path
+Max TF Term Weight (Un-normalized):   0.2896197903206467
+Lemma: plate
+Max TF Term Weight (Un-normalized):   0.18342303381616776
+Lemma: rarefy
+Max TF Term Weight (Un-normalized):   0.38371558518395665
+Lemma: region
+Max TF Term Weight (Un-normalized):   0.21287314662978224
+Lemma: remains
+Max TF Term Weight (Un-normalized):   0.32642819453100774
+Lemma: result
+Max TF Term Weight (Un-normalized):   0.05273625955403031
+Lemma: sc
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: scheuingra
+Max TF Term Weight (Un-normalized):   0.5511577818475554
+Lemma: sci
+Max TF Term Weight (Un-normalized):   0.49842152229352504
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.5844142677399616
+Lemma: small
+Max TF Term Weight (Un-normalized):   0.12244980267777505
+Lemma: solution
+Max TF Term Weight (Un-normalized):   0.08358499382143585
+Lemma: take
+Max TF Term Weight (Un-normalized):   0.1824374837498757
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.1647587132689228
+Lemma: that
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: then
+Max TF Term Weight (Un-normalized):   0.1824374837498757
+Lemma: through
+Max TF Term Weight (Un-normalized):   0.1671699876428717
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.13632125337546613
+Lemma: valid
+Max TF Term Weight (Un-normalized):   0.25619174666759414
+Lemma: value
+Max TF Term Weight (Un-normalized):   0.10547251910806062
+Lemma: well
+Max TF Term Weight (Un-normalized):   0.15820877866209093
+
+Rank#: 5
+Cosine Similarity: 0.08896495885323705
+Doc#: 571  Document Headline:  heat transfer to flat plate in high temperature rarefied ultra-high mach number flow .
+Document Vector: 
+Lemma: analytical
+Max TF Term Weight (Un-normalized):   0.21464010698788905
+Lemma: and
+Max TF Term Weight (Un-normalized):   0.23492181358477676
+Lemma: approximately
+Max TF Term Weight (Un-normalized):   0.23687131902227823
+Lemma: ars
+Max TF Term Weight (Un-normalized):   0.27990724277112194
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: base
+Max TF Term Weight (Un-normalized):   0.12631979301793214
+Lemma: be
+Max TF Term Weight (Un-normalized):   0.07745262647965885
+Lemma: both
+Max TF Term Weight (Un-normalized):   0.13718748050823018
+Lemma: by
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: calculate
+Max TF Term Weight (Un-normalized):   0.12631979301793214
+Lemma: case
+Max TF Term Weight (Un-normalized):   0.09860708177523271
+Lemma: coefficient
+Max TF Term Weight (Un-normalized):   0.1608212235800808
+Lemma: compare
+Max TF Term Weight (Un-normalized):   0.12631979301793214
+Lemma: condition
+Max TF Term Weight (Un-normalized):   0.12442828360969624
+Lemma: conduct
+Max TF Term Weight (Un-normalized):   0.18605464704650349
+Lemma: correspond
+Max TF Term Weight (Un-normalized):   0.17518695955620545
+Lemma: determine
+Max TF Term Weight (Un-normalized):   0.1444567637559832
+Lemma: drastically
+Max TF Term Weight (Un-normalized):   0.4618539073902895
+Lemma: edge
+Max TF Term Weight (Un-normalized):   0.19933783549043507
+Lemma: extent
+Max TF Term Weight (Un-normalized):   0.27990724277112194
+Lemma: extreme
+Max TF Term Weight (Un-normalized):   0.35556358306573094
+Lemma: find
+Max TF Term Weight (Un-normalized):   0.09773433307654658
+Lemma: flat
+Max TF Term Weight (Un-normalized):   0.19933783549043507
+Lemma: flow
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: free
+Max TF Term Weight (Un-normalized):   0.21407404725261564
+Lemma: from
+Max TF Term Weight (Un-normalized):   0.06221414180484812
+Lemma: gas
+Max TF Term Weight (Un-normalized):   0.1549052529593177
+Lemma: greater
+Max TF Term Weight (Un-normalized):   0.21120037997930297
+Lemma: heat
+Max TF Term Weight (Un-normalized):   0.19229081449476398
+Lemma: high
+Max TF Term Weight (Un-normalized):   0.1608212235800808
+Lemma: hypersonic
+Max TF Term Weight (Un-normalized):   0.14660149961481989
+Lemma: important
+Max TF Term Weight (Un-normalized):   0.20377241949759098
+Lemma: interaction
+Max TF Term Weight (Un-normalized):   0.19546866615309316
+Lemma: investigation
+Max TF Term Weight (Un-normalized):   0.11346604690275637
+Lemma: knudsen
+Max TF Term Weight (Un-normalized):   0.6000830593484904
+Lemma: lead
+Max TF Term Weight (Un-normalized):   0.19933783549043507
+Lemma: less
+Max TF Term Weight (Un-normalized):   0.1997427273823841
+Lemma: li
+Max TF Term Weight (Un-normalized):   0.3735335934203326
+Lemma: local
+Max TF Term Weight (Un-normalized):   0.2545523045886784
+Lemma: mach
+Max TF Term Weight (Un-normalized):   0.1312589011168814
+Lemma: magnitude
+Max TF Term Weight (Un-normalized):   0.20758418124196085
+Lemma: mean
+Max TF Term Weight (Un-normalized):   0.22405412609447875
+Lemma: measure
+Max TF Term Weight (Un-normalized):   0.16905262103571717
+Lemma: nagamatsu
+Max TF Term Weight (Un-normalized):   0.39725502702580645
+Lemma: nagamatsuht
+Max TF Term Weight (Un-normalized):   0.4331676605570754
+Lemma: no
+Max TF Term Weight (Un-normalized):   0.1623332134410297
+Lemma: noninsulated
+Max TF Term Weight (Un-normalized):   0.5107210739285628
+Lemma: number
+Max TF Term Weight (Un-normalized):   0.0941892418346477
+Lemma: of
+Max TF Term Weight (Un-normalized):   0.24209753616297452
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: order
+Max TF Term Weight (Un-normalized):   0.13718748050823018
+Lemma: parameter
+Max TF Term Weight (Un-normalized):   0.19721416355046542
+Lemma: path
+Max TF Term Weight (Un-normalized):   0.26837129986207403
+Lemma: perfect
+Max TF Term Weight (Un-normalized):   0.27292129263275205
+Lemma: phenomenon
+Max TF Term Weight (Un-normalized):   0.21791978757399047
+Lemma: physical
+Max TF Term Weight (Un-normalized):   0.22693209380551274
+Lemma: plate
+Max TF Term Weight (Un-normalized):   0.18354673492442877
+Lemma: predict
+Max TF Term Weight (Un-normalized):   0.20667090556083137
+Lemma: range
+Max TF Term Weight (Un-normalized):   0.09773433307654658
+Lemma: rarefy
+Max TF Term Weight (Un-normalized):   0.35556358306573094
+Lemma: rate
+Max TF Term Weight (Un-normalized):   0.19721416355046542
+Lemma: ratio
+Max TF Term Weight (Un-normalized):   0.09773433307654658
+Lemma: reduce
+Max TF Term Weight (Un-normalized):   0.16905262103571717
+Lemma: region
+Max TF Term Weight (Un-normalized):   0.14660149961481989
+Lemma: sharp
+Max TF Term Weight (Un-normalized):   0.22969717050951516
+Lemma: sheetre
+Max TF Term Weight (Un-normalized):   0.5107210739285628
+Lemma: shock
+Max TF Term Weight (Un-normalized):   0.11346604690275637
+Lemma: slip
+Max TF Term Weight (Un-normalized):   0.4514216017579987
+Lemma: stagnation
+Max TF Term Weight (Un-normalized):   0.1623332134410297
+Lemma: stream
+Max TF Term Weight (Un-normalized):   0.20052064322737606
+Lemma: strong
+Max TF Term Weight (Un-normalized):   0.25065352741098657
+Lemma: surface
+Max TF Term Weight (Un-normalized):   0.09773433307654658
+Lemma: temperature
+Max TF Term Weight (Un-normalized):   0.16486982709690284
+Lemma: than
+Max TF Term Weight (Un-normalized):   0.1444567637559832
+Lemma: that
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: theoretical
+Max TF Term Weight (Un-normalized):   0.12631979301793214
+Lemma: theory
+Max TF Term Weight (Un-normalized):   0.07745262647965885
+Lemma: these
+Max TF Term Weight (Un-normalized):   0.07745262647965885
+Lemma: thickness
+Max TF Term Weight (Un-normalized):   0.14660149961481989
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.0
+Lemma: transfer
+Max TF Term Weight (Un-normalized):   0.21407404725261564
+Lemma: tunnel
+Max TF Term Weight (Un-normalized):   0.13718748050823018
+Lemma: ultra
+Max TF Term Weight (Un-normalized):   0.4618539073902895
+Lemma: unity
+Max TF Term Weight (Un-normalized):   0.2600675465175763
+Lemma: value
+Max TF Term Weight (Un-normalized):   0.12442828360969624
+Lemma: vary
+Max TF Term Weight (Un-normalized):   0.2250823305203585
+Lemma: weilha
+Max TF Term Weight (Un-normalized):   0.5107210739285628

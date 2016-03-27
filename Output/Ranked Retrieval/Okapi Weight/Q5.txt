@@ -1,0 +1,793 @@
+Processing Query:  what chemical kinetic system is applicable to hypersonic aerodynamic problems  
+Top 5 Documents fetched in order:  
+
+Rank#: 1
+Cosine Similarity: 0.11507907128901146
+Doc#: 1032  Document Headline:  on the conservativeness of various distributed force systems .
+Document Vector: 
+Lemma: applicable
+Okapi Weight (Un-normalized):   0.49506117020358004
+Lemma: assistant
+Okapi Weight (Un-normalized):   0.5819191015056714
+Lemma: be
+Okapi Weight (Un-normalized):   0.4354686819797465
+Lemma: bodner
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: brown
+Okapi Weight (Un-normalized):   0.5983649450576688
+Lemma: buckle
+Okapi Weight (Un-normalized):   0.51140600773686
+Lemma: cantilever
+Okapi Weight (Un-normalized):   0.5422708676822946
+Lemma: cause
+Okapi Weight (Un-normalized):   0.49671717347706534
+Lemma: change
+Okapi Weight (Un-normalized):   0.51140600773686
+Lemma: character
+Okapi Weight (Un-normalized):   0.5371626079436997
+Lemma: column
+Okapi Weight (Un-normalized):   0.5174394169845659
+Lemma: conservative
+Okapi Weight (Un-normalized):   0.6689496292032314
+Lemma: conservativeness
+Okapi Weight (Un-normalized):   0.7365661861074706
+Lemma: constant
+Okapi Weight (Un-normalized):   0.4628236812476203
+Lemma: could
+Okapi Weight (Un-normalized):   0.49979426126479654
+Lemma: determination
+Okapi Weight (Un-normalized):   0.5026034223227039
+Lemma: determine
+Okapi Weight (Un-normalized):   0.4519606799150937
+Lemma: directional
+Okapi Weight (Un-normalized):   0.5819191015056714
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.4578469287607323
+Lemma: distribute
+Okapi Weight (Un-normalized):   0.5198926209013088
+Lemma: eight
+Okapi Weight (Un-normalized):   0.5759866982766829
+Lemma: employ
+Okapi Weight (Un-normalized):   0.49671717347706534
+Lemma: end
+Okapi Weight (Un-normalized):   0.5156938575214646
+Lemma: engineering
+Okapi Weight (Un-normalized):   0.5310913443472898
+Lemma: example
+Okapi Weight (Un-normalized):   0.47741601448381066
+Lemma: force
+Okapi Weight (Un-normalized):   0.49661067483167404
+Lemma: generally
+Okapi Weight (Un-normalized):   0.509807608675826
+Lemma: instability
+Okapi Weight (Un-normalized):   0.5664899810728284
+Lemma: kinetic
+Okapi Weight (Un-normalized):   0.5352629432445429
+Lemma: large
+Okapi Weight (Un-normalized):   0.4628236812476203
+Lemma: load
+Okapi Weight (Un-normalized):   0.5278203866767518
+Lemma: magnitude
+Okapi Weight (Un-normalized):   0.49506117020358004
+Lemma: make
+Okapi Weight (Un-normalized):   0.4354686819797465
+Lemma: method
+Okapi Weight (Un-normalized):   0.4510414322591895
+Lemma: necessity
+Okapi Weight (Un-normalized):   0.5710561001731448
+Lemma: nonconservative
+Okapi Weight (Un-normalized):   0.5983649450576688
+Lemma: nongyroscopic
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: only
+Okapi Weight (Un-normalized):   0.4628236812476203
+Lemma: otherwise
+Okapi Weight (Un-normalized):   0.5563945105950842
+Lemma: problem
+Okapi Weight (Un-normalized):   0.44475649356197167
+Lemma: professor
+Okapi Weight (Un-normalized):   0.5819191015056714
+Lemma: providence
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: reference
+Okapi Weight (Un-normalized):   0.5564442740862408
+Lemma: rus
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: show
+Okapi Weight (Un-normalized):   0.4354686819797465
+Lemma: small
+Okapi Weight (Un-normalized):   0.4519606799150937
+Lemma: sol
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: statical
+Okapi Weight (Un-normalized):   0.6338797814207651
+Lemma: system
+Okapi Weight (Un-normalized):   0.5650466160572456
+Lemma: tangential
+Okapi Weight (Un-normalized):   0.5710561001731448
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: time
+Okapi Weight (Un-normalized):   0.4709373639594929
+Lemma: university
+Okapi Weight (Un-normalized):   0.5371626079436997
+Lemma: usually
+Okapi Weight (Un-normalized):   0.526938934149356
+Lemma: valid
+Okapi Weight (Un-normalized):   0.5087130975663039
+Lemma: various
+Okapi Weight (Un-normalized):   0.4671347403429575
+Lemma: whereas
+Okapi Weight (Un-normalized):   0.5371626079436997
+
+Rank#: 2
+Cosine Similarity: 0.11501186186880086
+Doc#: 625  Document Headline:  viscous and inviscid nonequilibrium gas flows .
+Document Vector: 
+Lemma: about
+Okapi Weight (Un-normalized):   0.4748701903146387
+Lemma: accordingly
+Okapi Weight (Un-normalized):   0.4959570519410025
+Lemma: ae
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: aerodynamic
+Okapi Weight (Un-normalized):   0.438634143027551
+Lemma: air
+Okapi Weight (Un-normalized):   0.4748701903146387
+Lemma: allow
+Okapi Weight (Un-normalized):   0.4707243460032998
+Lemma: also
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: ambient
+Okapi Weight (Un-normalized):   0.48555989676341227
+Lemma: analogy
+Okapi Weight (Un-normalized):   0.47192341335212334
+Lemma: analysis
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: arbitrary
+Okapi Weight (Un-normalized):   0.4515121907034013
+Lemma: associate
+Okapi Weight (Un-normalized):   0.45565799605755647
+Lemma: at
+Okapi Weight (Un-normalized):   0.4
+Lemma: behind
+Okapi Weight (Un-normalized):   0.45565799605755647
+Lemma: blast
+Okapi Weight (Un-normalized):   0.484211598929406
+Lemma: blunt
+Okapi Weight (Un-normalized):   0.4698836828016227
+Lemma: body
+Okapi Weight (Un-normalized):   0.442074169461511
+Lemma: boundary
+Okapi Weight (Un-normalized):   0.4210370847307555
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: case
+Okapi Weight (Un-normalized):   0.42041122264872205
+Lemma: characteristic
+Okapi Weight (Un-normalized):   0.43615325052929094
+Lemma: chemical
+Okapi Weight (Un-normalized):   0.4675830607175332
+Lemma: comparison
+Okapi Weight (Un-normalized):   0.44277994838170615
+Lemma: conclusion
+Okapi Weight (Un-normalized):   0.46123366794616605
+Lemma: condition
+Okapi Weight (Un-normalized):   0.442074169461511
+Lemma: consider
+Okapi Weight (Un-normalized):   0.4488465980708672
+Lemma: considerably
+Okapi Weight (Un-normalized):   0.4675830607175332
+Lemma: consideration
+Okapi Weight (Un-normalized):   0.4503131233545778
+Lemma: constituent
+Okapi Weight (Un-normalized):   0.5217131472927031
+Lemma: control
+Okapi Weight (Un-normalized):   0.4574287729920056
+Lemma: cool
+Okapi Weight (Un-normalized):   0.45656447317801296
+Lemma: degree
+Okapi Weight (Un-normalized):   0.5090097723034349
+Lemma: diminish
+Okapi Weight (Un-normalized):   0.48555989676341227
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.4332892703245724
+Lemma: dissociate
+Okapi Weight (Un-normalized):   0.5232348425456542
+Lemma: dissociation
+Okapi Weight (Un-normalized):   0.5925123614585538
+Lemma: downstream
+Okapi Weight (Un-normalized):   0.45565799605755647
+Lemma: edge
+Okapi Weight (Un-normalized):   0.4748701903146387
+Lemma: effect
+Okapi Weight (Un-normalized):   0.41287804767585035
+Lemma: employ
+Okapi Weight (Un-normalized):   0.45565799605755647
+Lemma: energy
+Okapi Weight (Un-normalized):   0.48009564809538485
+Lemma: entry
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: envelope
+Okapi Weight (Un-normalized):   0.5012753641026194
+Lemma: equilibrium
+Okapi Weight (Un-normalized):   0.45263854134288856
+Lemma: expansion
+Okapi Weight (Un-normalized):   0.4537004929732944
+Lemma: facility
+Okapi Weight (Un-normalized):   0.48555989676341227
+Lemma: far
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: field
+Okapi Weight (Un-normalized):   0.48000789967065915
+Lemma: finally
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: finite
+Okapi Weight (Un-normalized):   0.4515121907034013
+Lemma: flight
+Okapi Weight (Un-normalized):   0.44277994838170615
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: fraction
+Okapi Weight (Un-normalized):   0.484211598929406
+Lemma: free
+Okapi Weight (Un-normalized):   0.46893914013670485
+Lemma: freezing
+Okapi Weight (Un-normalized):   0.5046892942626977
+Lemma: friction
+Okapi Weight (Un-normalized):   0.45263854134288856
+Lemma: frozen
+Okapi Weight (Un-normalized):   0.5828975518004846
+Lemma: gas
+Okapi Weight (Un-normalized):   0.46668598084548224
+Lemma: generalize
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: generate
+Okapi Weight (Un-normalized):   0.4675830607175332
+Lemma: geometry
+Okapi Weight (Un-normalized):   0.4619093458809916
+Lemma: govern
+Okapi Weight (Un-normalized):   0.463800376280684
+Lemma: heat
+Okapi Weight (Un-normalized):   0.4299019007058558
+Lemma: higher
+Okapi Weight (Un-normalized):   0.44765443911183117
+Lemma: highly
+Okapi Weight (Un-normalized):   0.47304976399161053
+Lemma: hypersonic
+Okapi Weight (Un-normalized):   0.48000789967065915
+Lemma: immediate
+Okapi Weight (Un-normalized):   0.4900006145877371
+Lemma: include
+Okapi Weight (Un-normalized):   0.4332892703245724
+Lemma: indicate
+Okapi Weight (Un-normalized):   0.4332892703245724
+Lemma: induce
+Okapi Weight (Un-normalized):   0.45470501304168287
+Lemma: influence
+Okapi Weight (Un-normalized):   0.4986881365687849
+Lemma: interaction
+Okapi Weight (Un-normalized):   0.48414833892302206
+Lemma: investigation
+Okapi Weight (Un-normalized):   0.4714947701087379
+Lemma: inviscid
+Okapi Weight (Un-normalized):   0.5258575650153274
+Lemma: kinetic
+Okapi Weight (Un-normalized):   0.47783999564072754
+Lemma: knowledge
+Okapi Weight (Un-normalized):   0.4711326942106153
+Lemma: law
+Okapi Weight (Un-normalized):   0.4605324867876815
+Lemma: layer
+Okapi Weight (Un-normalized):   0.4333429904227411
+Lemma: lead
+Okapi Weight (Un-normalized):   0.4748701903146387
+Lemma: lifting
+Okapi Weight (Un-normalized):   0.4675830607175332
+Lemma: limit
+Okapi Weight (Un-normalized):   0.45263854134288856
+Lemma: mach
+Okapi Weight (Un-normalized):   0.42041122264872205
+Lemma: magnitude
+Okapi Weight (Un-normalized):   0.45470501304168287
+Lemma: major
+Okapi Weight (Un-normalized):   0.4694425208538633
+Lemma: make
+Okapi Weight (Un-normalized):   0.4333429904227411
+Lemma: mass
+Okapi Weight (Un-normalized):   0.45565799605755647
+Lemma: may
+Okapi Weight (Un-normalized):   0.4299019007058558
+Lemma: means
+Okapi Weight (Un-normalized):   0.44765443911183117
+Lemma: mechanism
+Okapi Weight (Un-normalized):   0.47192341335212334
+Lemma: model
+Okapi Weight (Un-normalized):   0.45905856336462936
+Lemma: noncatalytic
+Okapi Weight (Un-normalized):   0.5141534117784697
+Lemma: nonequilibrium
+Okapi Weight (Un-normalized):   0.5318349194461569
+Lemma: nozzle
+Okapi Weight (Un-normalized):   0.45263854134288856
+Lemma: number
+Okapi Weight (Un-normalized):   0.41287804767585035
+Lemma: numerically
+Okapi Weight (Un-normalized):   0.4711326942106153
+Lemma: observe
+Okapi Weight (Un-normalized):   0.493813440812283
+Lemma: of
+Okapi Weight (Un-normalized):   0.463800376280684
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: order
+Okapi Weight (Un-normalized):   0.45905856336462936
+Lemma: over
+Okapi Weight (Un-normalized):   0.4299019007058558
+Lemma: parameter
+Okapi Weight (Un-normalized):   0.46668598084548224
+Lemma: portion
+Okapi Weight (Un-normalized):   0.45980380141171157
+Lemma: possibility
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: power
+Okapi Weight (Un-normalized):   0.4503131233545778
+Lemma: present
+Okapi Weight (Un-normalized):   0.4339382803391194
+Lemma: pressure
+Okapi Weight (Un-normalized):   0.41287804767585035
+Lemma: prevail
+Okapi Weight (Un-normalized):   0.5012753641026194
+Lemma: problem
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: rate
+Okapi Weight (Un-normalized):   0.4408224452974441
+Lemma: ratio
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: re
+Okapi Weight (Un-normalized):   0.463800376280684
+Lemma: reaction
+Okapi Weight (Un-normalized):   0.4707243460032998
+Lemma: result
+Okapi Weight (Un-normalized):   0.41287804767585035
+Lemma: sc
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: section
+Okapi Weight (Un-normalized):   0.44277994838170615
+Lemma: sharp
+Okapi Weight (Un-normalized):   0.4988835486223427
+Lemma: shock
+Okapi Weight (Un-normalized):   0.4299019007058558
+Lemma: simulation
+Okapi Weight (Un-normalized):   0.4937022769865398
+Lemma: since
+Okapi Weight (Un-normalized):   0.4619093458809916
+Lemma: skin
+Okapi Weight (Un-normalized):   0.4503131233545778
+Lemma: slab
+Okapi Weight (Un-normalized):   0.48555989676341227
+Lemma: slender
+Okapi Weight (Un-normalized):   0.48218958849360827
+Lemma: solution
+Okapi Weight (Un-normalized):   0.42041122264872205
+Lemma: sonic
+Okapi Weight (Un-normalized):   0.45980380141171157
+Lemma: species
+Okapi Weight (Un-normalized):   0.5608044503340008
+Lemma: spectrum
+Okapi Weight (Un-normalized):   0.47971285577440614
+Lemma: stream
+Okapi Weight (Un-normalized):   0.46893914013670485
+Lemma: technique
+Okapi Weight (Un-normalized):   0.44903129820514126
+Lemma: test
+Okapi Weight (Un-normalized):   0.4299019007058558
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transfer
+Okapi Weight (Un-normalized):   0.4332892703245724
+Lemma: tunnel
+Okapi Weight (Un-normalized):   0.43615325052929094
+Lemma: value
+Okapi Weight (Un-normalized):   0.42575609535170067
+Lemma: vehicle
+Okapi Weight (Un-normalized):   0.45656447317801296
+Lemma: verify
+Okapi Weight (Un-normalized):   0.4829725335123497
+Lemma: viscous
+Okapi Weight (Un-normalized):   0.4922606192871463
+Lemma: wall
+Okapi Weight (Un-normalized):   0.43615325052929094
+Lemma: wave
+Okapi Weight (Un-normalized):   0.4332892703245724
+Lemma: wedge
+Okapi Weight (Un-normalized):   0.46605515123514674
+Lemma: whalenrj
+Okapi Weight (Un-normalized):   0.5345911949685535
+Lemma: wind
+Okapi Weight (Un-normalized):   0.4445507253161552
+Lemma: within
+Okapi Weight (Un-normalized):   0.44765443911183117
+
+Rank#: 3
+Cosine Similarity: 0.11412349672769624
+Doc#: 103  Document Headline:  theory of mixing and chemical reaction in the opposed jet diffusion flame .
+Document Vector: 
+Lemma: analyzable
+Okapi Weight (Un-normalized):   0.6194871794871795
+Lemma: analyze
+Okapi Weight (Un-normalized):   0.4936530759561937
+Lemma: argue
+Okapi Weight (Un-normalized):   0.5861578715156583
+Lemma: ars
+Okapi Weight (Un-normalized):   0.520292767167975
+Lemma: at
+Okapi Weight (Un-normalized):   0.4
+Lemma: be
+Okapi Weight (Un-normalized):   0.43328599385791594
+Lemma: between
+Okapi Weight (Un-normalized):   0.4487630996126264
+Lemma: burn
+Okapi Weight (Un-normalized):   0.5651567476135024
+Lemma: butler
+Okapi Weight (Un-normalized):   0.7214017521902378
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: carry
+Okapi Weight (Un-normalized):   0.4875731116179878
+Lemma: chemical
+Okapi Weight (Un-normalized):   0.5909404933599012
+Lemma: comparison
+Okapi Weight (Un-normalized):   0.4697642235147823
+Lemma: constant
+Okapi Weight (Un-normalized):   0.45895760855545903
+Lemma: datum
+Okapi Weight (Un-normalized):   0.45428711776007186
+Lemma: derive
+Okapi Weight (Un-normalized):   0.46300337170646777
+Lemma: differential
+Okapi Weight (Un-normalized):   0.5137980848878271
+Lemma: diffusion
+Okapi Weight (Un-normalized):   0.5139576584394006
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.45428711776007186
+Lemma: equation
+Okapi Weight (Un-normalized):   0.44874169313361906
+Lemma: exactly
+Okapi Weight (Un-normalized):   0.546770233020002
+Lemma: experiment
+Okapi Weight (Un-normalized):   0.4665719877158318
+Lemma: experimental
+Okapi Weight (Un-normalized):   0.44200224780431185
+Lemma: extinction
+Okapi Weight (Un-normalized):   0.7214017521902378
+Lemma: flame
+Okapi Weight (Un-normalized):   0.6861303969019712
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: gas
+Okapi Weight (Un-normalized):   0.4665719877158318
+Lemma: give
+Okapi Weight (Un-normalized):   0.42100112390215594
+Lemma: heimel
+Okapi Weight (Un-normalized):   0.6194871794871795
+Lemma: higher
+Okapi Weight (Un-normalized):   0.47771339301314003
+Lemma: idealization
+Okapi Weight (Un-normalized):   0.5861578715156583
+Lemma: if
+Okapi Weight (Un-normalized):   0.4752882416622278
+Lemma: in
+Okapi Weight (Un-normalized):   0.5009598563597709
+Lemma: independent
+Okapi Weight (Un-normalized):   0.5009598563597709
+Lemma: jet
+Okapi Weight (Un-normalized):   0.5385267279991256
+Lemma: jnl
+Okapi Weight (Un-normalized):   0.5077207081680853
+Lemma: kinetic
+Okapi Weight (Un-normalized):   0.5858807405287961
+Lemma: laminar
+Okapi Weight (Un-normalized):   0.4487630996126264
+Lemma: location
+Okapi Weight (Un-normalized):   0.4949998851182322
+Lemma: make
+Okapi Weight (Un-normalized):   0.43328599385791594
+Lemma: measurement
+Okapi Weight (Un-normalized):   0.46300337170646777
+Lemma: mix
+Okapi Weight (Un-normalized):   0.5537629221872493
+Lemma: must
+Okapi Weight (Un-normalized):   0.5009598563597709
+Lemma: number
+Okapi Weight (Un-normalized):   0.42100112390215594
+Lemma: of
+Okapi Weight (Un-normalized):   0.5040436905500385
+Lemma: oppose
+Okapi Weight (Un-normalized):   0.5774849316828676
+Lemma: out
+Okapi Weight (Un-normalized):   0.4726519520540377
+Lemma: potter
+Okapi Weight (Un-normalized):   0.7214017521902378
+Lemma: premixed
+Okapi Weight (Un-normalized):   0.6194871794871795
+Lemma: property
+Okapi Weight (Un-normalized):   0.4752882416622278
+Lemma: quantitatively
+Okapi Weight (Un-normalized):   0.5651567476135024
+Lemma: rate
+Okapi Weight (Un-normalized):   0.51533449007037
+Lemma: reaction
+Okapi Weight (Un-normalized):   0.5153350873284581
+Lemma: relation
+Okapi Weight (Un-normalized):   0.4840044956086237
+Lemma: reynold
+Okapi Weight (Un-normalized):   0.45895760855545903
+Lemma: show
+Okapi Weight (Un-normalized):   0.43328599385791594
+Lemma: solution
+Okapi Weight (Un-normalized):   0.43328599385791594
+Lemma: solve
+Okapi Weight (Un-normalized):   0.4858413135745567
+Lemma: spaldingdb
+Okapi Weight (Un-normalized):   0.6194871794871795
+Lemma: speed
+Okapi Weight (Un-normalized):   0.44200224780431185
+Lemma: system
+Okapi Weight (Un-normalized):   0.4840044956086237
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: theory
+Okapi Weight (Un-normalized):   0.43328599385791594
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transport
+Okapi Weight (Un-normalized):   0.5255295962712908
+Lemma: use
+Okapi Weight (Un-normalized):   0.42100112390215594
+
+Rank#: 4
+Cosine Similarity: 0.1124940760337442
+Doc#: 1272  Document Headline:  oscillatory aerodynamic coefficients for a unified supersonic hypersonic strip theory .
+Document Vector: 
+Lemma: accuracy
+Okapi Weight (Un-normalized):   0.4970270270767478
+Lemma: ae
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: aerodynamic
+Okapi Weight (Un-normalized):   0.4993449392137026
+Lemma: also
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: analysis
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: applicable
+Okapi Weight (Un-normalized):   0.4988420122003133
+Lemma: at
+Okapi Weight (Un-normalized):   0.4
+Lemma: coefficient
+Okapi Weight (Un-normalized):   0.5085742355201437
+Lemma: consider
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: correction
+Okapi Weight (Un-normalized):   0.5193496482544128
+Lemma: derivation
+Okapi Weight (Un-normalized):   0.5479293681014767
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.4601476588818978
+Lemma: dyke
+Okapi Weight (Un-normalized):   0.573376946120675
+Lemma: edge
+Okapi Weight (Un-normalized):   0.4929655013610338
+Lemma: finite
+Okapi Weight (Un-normalized):   0.493073162748191
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: flutter
+Okapi Weight (Un-normalized):   0.5080545957325243
+Lemma: frequency
+Okapi Weight (Un-normalized):   0.5080545957325243
+Lemma: from
+Okapi Weight (Un-normalized):   0.4232682906870478
+Lemma: hypersonic
+Okapi Weight (Un-normalized):   0.4993449392137026
+Lemma: increase
+Okapi Weight (Un-normalized):   0.4601476588818978
+Lemma: investigation
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: lead
+Okapi Weight (Un-normalized):   0.4929655013610338
+Lemma: limit
+Okapi Weight (Un-normalized):   0.4951082735627191
+Lemma: mach
+Okapi Weight (Un-normalized):   0.43687936819485
+Lemma: modify
+Okapi Weight (Un-normalized):   0.4970270270767478
+Lemma: nonlinear
+Okapi Weight (Un-normalized):   0.5163414534352389
+Lemma: normal
+Okapi Weight (Un-normalized):   0.4804950605144168
+Lemma: number
+Okapi Weight (Un-normalized):   0.4232682906870478
+Lemma: order
+Okapi Weight (Un-normalized):   0.4653223503881506
+Lemma: oscillatory
+Okapi Weight (Un-normalized):   0.6001599887904423
+Lemma: present
+Okapi Weight (Un-normalized):   0.4232682906870478
+Lemma: reduce
+Okapi Weight (Un-normalized):   0.4804950605144168
+Lemma: regime
+Okapi Weight (Un-normalized):   0.5285238452214527
+Lemma: revelljd
+Okapi Weight (Un-normalized):   0.6199135274947705
+Lemma: roddenwp
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: sc
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: second
+Okapi Weight (Un-normalized):   0.486102907031604
+Lemma: span
+Okapi Weight (Un-normalized):   0.5193496482544128
+Lemma: steady
+Okapi Weight (Un-normalized):   0.486102907031604
+Lemma: strip
+Okapi Weight (Un-normalized):   0.6232435426584015
+Lemma: suggest
+Okapi Weight (Un-normalized):   0.5022017185830007
+Lemma: supersonic
+Okapi Weight (Un-normalized):   0.4975261992252527
+Lemma: sweep
+Okapi Weight (Un-normalized):   0.5183765642497669
+Lemma: theory
+Okapi Weight (Un-normalized):   0.4665719877158318
+Lemma: throughout
+Okapi Weight (Un-normalized):   0.531322886419572
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: unify
+Okapi Weight (Un-normalized):   0.5658862296285083
+Lemma: unsteady
+Okapi Weight (Un-normalized):   0.5163414534352389
+Lemma: value
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: van
+Okapi Weight (Un-normalized):   0.5363052046338297
+Lemma: wing
+Okapi Weight (Un-normalized):   0.4601476588818978
+
+Rank#: 5
+Cosine Similarity: 0.11178573595189858
+Doc#: 943  Document Headline:  compressible free shear layer with finite initial thickness .
+Document Vector: 
+Lemma: aiaa
+Okapi Weight (Un-normalized):   0.5037831519391588
+Lemma: angle
+Okapi Weight (Un-normalized):   0.45040946649149527
+Lemma: approach
+Okapi Weight (Un-normalized):   0.47424739442492814
+Lemma: base
+Okapi Weight (Un-normalized):   0.45040946649149527
+Lemma: baume
+Okapi Weight (Un-normalized):   0.6038095238095238
+Lemma: be
+Okapi Weight (Un-normalized):   0.4309084228680648
+Lemma: blasius
+Okapi Weight (Un-normalized):   0.5256441221758439
+Lemma: body
+Okapi Weight (Un-normalized):   0.439002087246861
+Lemma: calculation
+Okapi Weight (Un-normalized):   0.4752558386010474
+Lemma: case
+Okapi Weight (Un-normalized):   0.4461429061774427
+Lemma: chapman
+Okapi Weight (Un-normalized):   0.5239788989802853
+Lemma: chemical
+Okapi Weight (Un-normalized):   0.5527825590628593
+Lemma: composition
+Okapi Weight (Un-normalized):   0.5295621293845957
+Lemma: compressible
+Okapi Weight (Un-normalized):   0.4721624363693443
+Lemma: conservation
+Okapi Weight (Un-normalized):   0.539028459117226
+Lemma: coordinate
+Okapi Weight (Un-normalized):   0.5527825590628593
+Lemma: correspond
+Okapi Weight (Un-normalized):   0.5043687710246523
+Lemma: crocco
+Okapi Weight (Un-normalized):   0.5256441221758439
+Lemma: denisonmr
+Okapi Weight (Un-normalized):   0.5843084801860933
+Lemma: difference
+Okapi Weight (Un-normalized):   0.4842821083157283
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.45040946649149527
+Lemma: distance
+Okapi Weight (Un-normalized):   0.5043687710246523
+Lemma: distribution
+Okapi Weight (Un-normalized):   0.439002087246861
+Lemma: downstream
+Okapi Weight (Un-normalized):   0.4842821083157283
+Lemma: effect
+Okapi Weight (Un-normalized):   0.4291129324236048
+Lemma: equation
+Okapi Weight (Un-normalized):   0.45521447941459586
+Lemma: finite
+Okapi Weight (Un-normalized):   0.5653520522578899
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: free
+Okapi Weight (Un-normalized):   0.499867810973717
+Lemma: from
+Okapi Weight (Un-normalized):   0.4291129324236048
+Lemma: function
+Okapi Weight (Un-normalized):   0.48173033413493727
+Lemma: implicit
+Okapi Weight (Un-normalized):   0.5490631730080261
+Lemma: initial
+Okapi Weight (Un-normalized):   0.5653520522578899
+Lemma: jnl
+Okapi Weight (Un-normalized):   0.500026371870365
+Lemma: kinetic
+Okapi Weight (Un-normalized):   0.517871993398816
+Lemma: laminar
+Okapi Weight (Un-normalized):   0.4452800210688673
+Lemma: large
+Okapi Weight (Un-normalized):   0.45474635080149767
+Lemma: layer
+Okapi Weight (Un-normalized):   0.46123366794616605
+Lemma: method
+Okapi Weight (Un-normalized):   0.4461429061774427
+Lemma: momentum
+Okapi Weight (Un-normalized):   0.49056004213773463
+Lemma: numerically
+Okapi Weight (Un-normalized):   0.5077152226617889
+Lemma: obtain
+Okapi Weight (Un-normalized):   0.4309084228680648
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: other
+Okapi Weight (Un-normalized):   0.45040946649149527
+Lemma: outline
+Okapi Weight (Un-normalized):   0.5165631965376272
+Lemma: pressure
+Okapi Weight (Un-normalized):   0.41950104362343055
+Lemma: profile
+Okapi Weight (Un-normalized):   0.5554480754320114
+Lemma: rear
+Okapi Weight (Un-normalized):   0.5207080387441007
+Lemma: result
+Okapi Weight (Un-normalized):   0.41950104362343055
+Lemma: separate
+Okapi Weight (Un-normalized):   0.48565477366956245
+Lemma: shear
+Okapi Weight (Un-normalized):   0.5573884875091007
+Lemma: solve
+Okapi Weight (Un-normalized):   0.479709791176374
+Lemma: streamwise
+Okapi Weight (Un-normalized):   0.517871993398816
+Lemma: system
+Okapi Weight (Un-normalized):   0.478004174493722
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.4452800210688673
+Lemma: these
+Okapi Weight (Un-normalized):   0.4309084228680648
+Lemma: thickness
+Okapi Weight (Un-normalized):   0.5045093736718818
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transform
+Okapi Weight (Un-normalized):   0.505155817292993
+Lemma: uncouple
+Okapi Weight (Un-normalized):   0.5585295027406565
+Lemma: use
+Okapi Weight (Un-normalized):   0.41950104362343055
+Lemma: velocity
+Okapi Weight (Un-normalized):   0.439002087246861
+Lemma: wake
+Okapi Weight (Un-normalized):   0.4956894875603626
+Lemma: zero
+Okapi Weight (Un-normalized):   0.46478106469229785

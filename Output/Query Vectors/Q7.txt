@@ -1,0 +1,47 @@
+Query:  is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack  
+Lemmas:
+Lemma: angle
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: at
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: attack
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: available
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: distribution
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: equivalent
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: forebody
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: lower
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: ogive
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: possible
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: pressure
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: relate
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: surface
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357
+Lemma: to
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.6213877551020408
+Lemma: zero
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.5357357357357357

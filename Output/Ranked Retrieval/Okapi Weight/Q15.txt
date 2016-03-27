@@ -1,0 +1,551 @@
+Processing Query:  material properties of photoelastic materials  
+Top 5 Documents fetched in order:  
+
+Rank#: 1
+Cosine Similarity: 0.1288546208148153
+Doc#: 462  Document Headline:  photo-thermoelasticity .
+Document Vector: 
+Lemma: also
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: application
+Okapi Weight (Un-normalized):   0.4636349882577804
+Lemma: apply
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: be
+Okapi Weight (Un-normalized):   0.4318174941288902
+Lemma: beam
+Okapi Weight (Un-normalized):   0.5864203219287061
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: calibration
+Okapi Weight (Un-normalized):   0.5402950756808842
+Lemma: coefficient
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: conduct
+Okapi Weight (Un-normalized):   0.476431141319779
+Lemma: contracting
+Okapi Weight (Un-normalized):   0.6098039215686275
+Lemma: correlate
+Okapi Weight (Un-normalized):   0.5029683239841993
+Lemma: datum
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: depth
+Okapi Weight (Un-normalized):   0.5460653141260767
+Lemma: description
+Okapi Weight (Un-normalized):   0.5082486354486692
+Lemma: develop
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: differential
+Okapi Weight (Un-normalized):   0.5100782927667964
+Lemma: disk
+Okapi Weight (Un-normalized):   0.5333727802488485
+Lemma: edge
+Okapi Weight (Un-normalized):   0.456356537589777
+Lemma: elastic
+Okapi Weight (Un-normalized):   0.4837095919877824
+Lemma: elasticity
+Okapi Weight (Un-normalized):   0.5460653141260767
+Lemma: equipment
+Okapi Weight (Un-normalized):   0.5402950756808842
+Lemma: expansion
+Okapi Weight (Un-normalized):   0.4837095919877824
+Lemma: experimental
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: exploratory
+Okapi Weight (Un-normalized):   0.5495801103786215
+Lemma: field
+Okapi Weight (Un-normalized):   0.46022381119000594
+Lemma: fringe
+Okapi Weight (Un-normalized):   0.5696547141086235
+Lemma: from
+Okapi Weight (Un-normalized):   0.420074603730002
+Lemma: function
+Okapi Weight (Un-normalized):   0.456356537589777
+Lemma: gerardg
+Okapi Weight (Un-normalized):   0.5431175314442032
+Lemma: gilbertac
+Okapi Weight (Un-normalized):   0.6098039215686275
+Lemma: include
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: inclusion
+Okapi Weight (Un-normalized):   0.5534473839788504
+Lemma: into
+Okapi Weight (Un-normalized):   0.46022381119000594
+Lemma: investigation
+Okapi Weight (Un-normalized):   0.46907121857962814
+Lemma: jappmech
+Okapi Weight (Un-normalized):   0.5402950756808842
+Lemma: length
+Okapi Weight (Un-normalized):   0.4742848609684427
+Lemma: long
+Okapi Weight (Un-normalized):   0.4908087137159572
+Lemma: material
+Okapi Weight (Un-normalized):   0.5556610790725702
+Lemma: model
+Okapi Weight (Un-normalized):   0.456356537589777
+Lemma: modulus
+Okapi Weight (Un-normalized):   0.5353322783108937
+Lemma: obtain
+Okapi Weight (Un-normalized):   0.44714844166314965
+Lemma: optical
+Okapi Weight (Un-normalized):   0.5534473839788504
+Lemma: over
+Okapi Weight (Un-normalized):   0.4466117863944222
+Lemma: paper
+Okapi Weight (Un-normalized):   0.45189209785889217
+Lemma: paraplex
+Okapi Weight (Un-normalized):   0.5897293178386255
+Lemma: phase
+Okapi Weight (Un-normalized):   0.5230429277142012
+Lemma: phenomenon
+Okapi Weight (Un-normalized):   0.4895213226051851
+Lemma: photo
+Okapi Weight (Un-normalized):   0.5696547141086235
+Lemma: photoelastic
+Okapi Weight (Un-normalized):   0.6098039215686275
+Lemma: photographic
+Okapi Weight (Un-normalized):   0.5696547141086235
+Lemma: physical
+Okapi Weight (Un-normalized):   0.4932235727888445
+Lemma: plane
+Okapi Weight (Un-normalized):   0.476431141319779
+Lemma: plastic
+Okapi Weight (Un-normalized):   0.5121159090488981
+Lemma: present
+Okapi Weight (Un-normalized):   0.420074603730002
+Lemma: problem
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: produce
+Okapi Weight (Un-normalized):   0.5215912068792147
+Lemma: property
+Okapi Weight (Un-normalized):   0.5066431510227681
+Lemma: range
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: ratio
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: result
+Okapi Weight (Un-normalized):   0.420074603730002
+Lemma: room
+Okapi Weight (Un-normalized):   0.5696547141086235
+Lemma: shock
+Okapi Weight (Un-normalized):   0.4466117863944222
+Lemma: stress
+Okapi Weight (Un-normalized):   0.4942968833262993
+Lemma: sudden
+Okapi Weight (Un-normalized):   0.5376712508650707
+Lemma: suddenly
+Okapi Weight (Un-normalized):   0.5534473839788504
+Lemma: summarize
+Okapi Weight (Un-normalized):   0.5293395375339569
+Lemma: technique
+Okapi Weight (Un-normalized):   0.476431141319779
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.4971608081518611
+Lemma: theory
+Okapi Weight (Un-normalized):   0.4318174941288902
+Lemma: thermal
+Okapi Weight (Un-normalized):   0.5417575863395525
+Lemma: thermoelasticity
+Okapi Weight (Un-normalized):   0.6098039215686275
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: transient
+Okapi Weight (Un-normalized):   0.5068355975844282
+Lemma: upon
+Okapi Weight (Un-normalized):   0.5240442380061086
+Lemma: upper
+Okapi Weight (Un-normalized):   0.5021288005292106
+Lemma: use
+Okapi Weight (Un-normalized):   0.420074603730002
+Lemma: value
+Okapi Weight (Un-normalized):   0.44014920746000397
+Lemma: various
+Okapi Weight (Un-normalized):   0.46022381119000594
+
+Rank#: 2
+Cosine Similarity: 0.10446909547023886
+Doc#: 1099  Document Headline:  a theoretical study of stagnation point ablation .
+Document Vector: 
+Lemma: ablation
+Okapi Weight (Un-normalized):   0.6941410504947577
+Lemma: analysis
+Okapi Weight (Un-normalized):   0.47205664212763176
+Lemma: at
+Okapi Weight (Un-normalized):   0.4
+Lemma: automatic
+Okapi Weight (Un-normalized):   0.5871536949654965
+Lemma: capacity
+Okapi Weight (Un-normalized):   0.5800316357466309
+Lemma: discuss
+Okapi Weight (Un-normalized):   0.4678588972000898
+Lemma: effective
+Okapi Weight (Un-normalized):   0.5357177944001795
+Lemma: enthalpy
+Okapi Weight (Un-normalized):   0.5397080891488677
+Lemma: give
+Okapi Weight (Un-normalized):   0.4262514048776949
+Lemma: good
+Okapi Weight (Un-normalized):   0.48720527939347785
+Lemma: heat
+Okapi Weight (Un-normalized):   0.48365517088969623
+Lemma: increase
+Okapi Weight (Un-normalized):   0.4678588972000898
+Lemma: linearly
+Okapi Weight (Un-normalized):   0.5586738372676369
+Lemma: make
+Okapi Weight (Un-normalized):   0.4416074923223949
+Lemma: material
+Okapi Weight (Un-normalized):   0.5582478223220655
+Lemma: mechanism
+Okapi Weight (Un-normalized):   0.6012168221053539
+Lemma: most
+Okapi Weight (Un-normalized):   0.5025613668381779
+Lemma: nasa
+Okapi Weight (Un-normalized):   0.48321498464478974
+Lemma: parameter
+Okapi Weight (Un-normalized):   0.48321498464478974
+Lemma: place
+Okapi Weight (Un-normalized):   0.5415559078944135
+Lemma: point
+Okapi Weight (Un-normalized):   0.4931318589139062
+Lemma: property
+Okapi Weight (Un-normalized):   0.49411030207778467
+Lemma: reduce
+Okapi Weight (Un-normalized):   0.4908149400675471
+Lemma: result
+Okapi Weight (Un-normalized):   0.4262514048776949
+Lemma: robert
+Okapi Weight (Un-normalized):   0.6134050998431914
+Lemma: shield
+Okapi Weight (Un-normalized):   0.7044829473151835
+Lemma: significant
+Okapi Weight (Un-normalized):   0.565188501041538
+Lemma: simplify
+Okapi Weight (Un-normalized):   0.5187498563977901
+Lemma: stagnation
+Okapi Weight (Un-normalized):   0.5196834919535122
+Lemma: stream
+Okapi Weight (Un-normalized):   0.4678588972000898
+Lemma: study
+Okapi Weight (Un-normalized):   0.46095387451578296
+Lemma: surface
+Okapi Weight (Un-normalized):   0.4525028097553898
+Lemma: take
+Okapi Weight (Un-normalized):   0.4908149400675471
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: theoretical
+Okapi Weight (Un-normalized):   0.4678588972000898
+Lemma: thermal
+Okapi Weight (Un-normalized):   0.5050056195107796
+Lemma: tr
+Okapi Weight (Un-normalized):   0.5744105587869557
+Lemma: transfer
+Okapi Weight (Un-normalized):   0.4678588972000898
+
+Rank#: 3
+Cosine Similarity: 0.09893018499780494
+Doc#: 817  Document Headline:  loading paths and the incremental stress law .
+Document Vector: 
+Lemma: also
+Okapi Weight (Un-normalized):   0.450872287713297
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: concerned
+Okapi Weight (Un-normalized):   0.5362754635089411
+Lemma: deformation
+Okapi Weight (Un-normalized):   0.5260156500450777
+Lemma: differential
+Okapi Weight (Un-normalized):   0.5304514631640944
+Lemma: directly
+Okapi Weight (Un-normalized):   0.5362754635089411
+Lemma: express
+Okapi Weight (Un-normalized):   0.5195610608601411
+Lemma: flow
+Okapi Weight (Un-normalized):   0.4
+Lemma: function
+Okapi Weight (Un-normalized):   0.4989675782064377
+Lemma: give
+Okapi Weight (Un-normalized):   0.4254361438566485
+Lemma: hankelmangh
+Okapi Weight (Un-normalized):   0.6658385093167702
+Lemma: harden
+Okapi Weight (Un-normalized):   0.6254707139475366
+Lemma: incremental
+Okapi Weight (Un-normalized):   0.641764147860612
+Lemma: introduce
+Okapi Weight (Un-normalized):   0.5117236178298641
+Lemma: law
+Okapi Weight (Un-normalized):   0.6053261951838156
+Lemma: load
+Okapi Weight (Un-normalized):   0.4714082836541274
+Lemma: material
+Okapi Weight (Un-normalized):   0.5117236178298641
+Lemma: math
+Okapi Weight (Un-normalized):   0.5294054366953973
+Lemma: mean
+Okapi Weight (Un-normalized):   0.5166237657456821
+Lemma: occasion
+Okapi Weight (Un-normalized):   0.6404023654601217
+Lemma: paper
+Okapi Weight (Un-normalized):   0.46575147803238515
+Lemma: path
+Okapi Weight (Un-normalized):   0.539691565397822
+Lemma: phy
+Okapi Weight (Un-normalized):   0.5502485189353823
+Lemma: plastic
+Okapi Weight (Un-normalized):   0.5968864744273333
+Lemma: prager
+Okapi Weight (Un-normalized):   0.6658385093167702
+Lemma: property
+Okapi Weight (Un-normalized):   0.49118762188903364
+Lemma: refer
+Okapi Weight (Un-normalized):   0.563883637620666
+Lemma: shall
+Okapi Weight (Un-normalized):   0.5850765470914264
+Lemma: strain
+Okapi Weight (Un-normalized):   0.6434640603155053
+Lemma: stress
+Okapi Weight (Un-normalized):   0.5454242450103122
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: total
+Okapi Weight (Un-normalized):   0.5017445754265939
+Lemma: warnerwh
+Okapi Weight (Un-normalized):   0.6658385093167702
+Lemma: we
+Okapi Weight (Un-normalized):   0.5334870391812145
+Lemma: work
+Okapi Weight (Un-normalized):   0.49118762188903364
+
+Rank#: 4
+Cosine Similarity: 0.09171973573383764
+Doc#: 463  Document Headline:  physical properties of plastics for photo-thermoelastic investigation .
+Document Vector: 
+Lemma: also
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: application
+Okapi Weight (Un-normalized):   0.4737587363897
+Lemma: be
+Okapi Weight (Un-normalized):   0.4524860010967138
+Lemma: castolite
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: coefficient
+Okapi Weight (Un-normalized):   0.4601476588818978
+Lemma: conduction
+Okapi Weight (Un-normalized):   0.5163414534352389
+Lemma: determine
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: elasticity
+Okapi Weight (Un-normalized):   0.5693029777370435
+Lemma: epoxy
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: evaluate
+Okapi Weight (Un-normalized):   0.5130369139467819
+Lemma: expansion
+Okapi Weight (Un-normalized):   0.4970270270767478
+Lemma: figure
+Okapi Weight (Un-normalized):   0.6200111631059172
+Lemma: fringe
+Okapi Weight (Un-normalized):   0.5966452368077226
+Lemma: from
+Okapi Weight (Un-normalized):   0.4232682906870478
+Lemma: function
+Okapi Weight (Un-normalized):   0.4653223503881506
+Lemma: gerardg
+Okapi Weight (Un-normalized):   0.5658862296285083
+Lemma: heat
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: hysol
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: importance
+Okapi Weight (Un-normalized):   0.5163414534352389
+Lemma: interest
+Okapi Weight (Un-normalized):   0.5152756798707813
+Lemma: investigate
+Okapi Weight (Un-normalized):   0.4737587363897
+Lemma: investigation
+Okapi Weight (Un-normalized):   0.4768906018150577
+Lemma: japp
+Okapi Weight (Un-normalized):   0.6199135274947705
+Lemma: manner
+Okapi Weight (Un-normalized):   0.505255554534405
+Lemma: material
+Okapi Weight (Un-normalized):   0.5454515024577475
+Lemma: mech
+Okapi Weight (Un-normalized):   0.4951082735627191
+Lemma: merit
+Okapi Weight (Un-normalized):   0.5658862296285083
+Lemma: method
+Okapi Weight (Un-normalized):   0.43687936819485
+Lemma: modulus
+Okapi Weight (Un-normalized):   0.5568624134967177
+Lemma: new
+Okapi Weight (Un-normalized):   0.4951082735627191
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: op
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: optical
+Okapi Weight (Un-normalized):   0.653126142843818
+Lemma: over
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: paraplex
+Okapi Weight (Un-normalized):   0.6199135274947705
+Lemma: photo
+Okapi Weight (Un-normalized):   0.5966452368077226
+Lemma: photothermoelastic
+Okapi Weight (Un-normalized):   0.7258222333717915
+Lemma: physical
+Okapi Weight (Un-normalized):   0.5537812036301155
+Lemma: plastic
+Okapi Weight (Un-normalized):   0.5299525309430411
+Lemma: potentially
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: present
+Okapi Weight (Un-normalized):   0.43311497973790086
+Lemma: property
+Okapi Weight (Un-normalized):   0.5382122009594243
+Lemma: range
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: rate
+Okapi Weight (Un-normalized):   0.4737587363897
+Lemma: relative
+Okapi Weight (Un-normalized):   0.5193496482544128
+Lemma: resin
+Okapi Weight (Un-normalized):   0.6062544599179169
+Lemma: result
+Okapi Weight (Un-normalized):   0.4232682906870478
+Lemma: sensitivity
+Okapi Weight (Un-normalized):   0.589154520315556
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.4768906018150577
+Lemma: thermal
+Okapi Weight (Un-normalized):   0.5324599189516034
+Lemma: thermoelastic
+Okapi Weight (Un-normalized):   0.5966452368077226
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: tramposchh
+Okapi Weight (Un-normalized):   0.5966452368077226
+Lemma: value
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: well
+Okapi Weight (Un-normalized):   0.4698048720611433
+
+Rank#: 5
+Cosine Similarity: 0.08982687626609681
+Doc#: 1027  Document Headline:  note on creep buckling of columns .
+Document Vector: 
+Lemma: above
+Okapi Weight (Un-normalized):   0.5005638792403577
+Lemma: account
+Okapi Weight (Un-normalized):   0.4951082735627191
+Lemma: agree
+Okapi Weight (Un-normalized):   0.505255554534405
+Lemma: alloy
+Okapi Weight (Un-normalized):   0.5499162821416319
+Lemma: aluminum
+Okapi Weight (Un-normalized):   0.5545911771066199
+Lemma: application
+Okapi Weight (Un-normalized):   0.4737587363897
+Lemma: behavior
+Okapi Weight (Un-normalized):   0.5037633512014645
+Lemma: between
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: buckle
+Okapi Weight (Un-normalized):   0.4804950605144168
+Lemma: by
+Okapi Weight (Un-normalized):   0.4
+Lemma: column
+Okapi Weight (Un-normalized):   0.522110302887361
+Lemma: condition
+Okapi Weight (Un-normalized):   0.4465365813740955
+Lemma: creep
+Okapi Weight (Un-normalized):   0.6051779886663287
+Lemma: curve
+Okapi Weight (Un-normalized):   0.5260804810989347
+Lemma: datum
+Okapi Weight (Un-normalized):   0.4601476588818978
+Lemma: elasticity
+Okapi Weight (Un-normalized):   0.5693029777370435
+Lemma: equicohesive
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: expansion
+Okapi Weight (Un-normalized):   0.4970270270767478
+Lemma: four
+Okapi Weight (Un-normalized):   0.5163414534352389
+Lemma: heating
+Okapi Weight (Un-normalized):   0.4970270270767478
+Lemma: include
+Okapi Weight (Un-normalized):   0.4601476588818978
+Lemma: information
+Okapi Weight (Un-normalized):   0.5640581104360445
+Lemma: integrate
+Okapi Weight (Un-normalized):   0.5238321699274054
+Lemma: linear
+Okapi Weight (Un-normalized):   0.4885906410751984
+Lemma: material
+Okapi Weight (Un-normalized):   0.5022017185830007
+Lemma: may
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: metal
+Okapi Weight (Un-normalized):   0.6314301517970382
+Lemma: note
+Okapi Weight (Un-normalized):   0.4804950605144168
+Lemma: on
+Okapi Weight (Un-normalized):   0.4
+Lemma: one
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: phenomenological
+Okapi Weight (Un-normalized):   0.6199135274947705
+Lemma: polycrystalline
+Okapi Weight (Un-normalized):   0.6431818181818182
+Lemma: property
+Okapi Weight (Un-normalized):   0.4834159495689455
+Lemma: provide
+Okapi Weight (Un-normalized):   0.4804950605144168
+Lemma: rapid
+Okapi Weight (Un-normalized):   0.5262599056572903
+Lemma: rate
+Okapi Weight (Un-normalized):   0.5049720021934275
+Lemma: reasonably
+Okapi Weight (Un-normalized):   0.531322886419572
+Lemma: relation
+Okapi Weight (Un-normalized):   0.5680089912172473
+Lemma: rupture
+Okapi Weight (Un-normalized):   0.6062544599179169
+Lemma: sheet
+Okapi Weight (Un-normalized):   0.5458174109025674
+Lemma: show
+Okapi Weight (Un-normalized):   0.43687936819485
+Lemma: strain
+Okapi Weight (Un-normalized):   0.5698561031760916
+Lemma: stress
+Okapi Weight (Un-normalized):   0.5049720021934275
+Lemma: suggest
+Okapi Weight (Un-normalized):   0.5022017185830007
+Lemma: temperature
+Okapi Weight (Un-normalized):   0.4768906018150577
+Lemma: test
+Okapi Weight (Un-normalized):   0.45402729786626217
+Lemma: that
+Okapi Weight (Un-normalized):   0.4
+Lemma: thermal
+Okapi Weight (Un-normalized):   0.493073162748191
+Lemma: these
+Okapi Weight (Un-normalized):   0.43687936819485
+Lemma: to
+Okapi Weight (Un-normalized):   0.4
+Lemma: under
+Okapi Weight (Un-normalized):   0.4653223503881506
+Lemma: various
+Okapi Weight (Un-normalized):   0.4698048720611433
+Lemma: viscosity
+Okapi Weight (Un-normalized):   0.5037633512014645
+Lemma: well
+Okapi Weight (Un-normalized):   0.4698048720611433
+Lemma: yield
+Okapi Weight (Un-normalized):   0.4970270270767478

@@ -1,0 +1,20 @@
+Query:  papers on shock-sound wave interaction  
+Lemmas:
+Lemma: interaction
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578
+Lemma: on
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578
+Lemma: papers
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578
+Lemma: shock
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578
+Lemma: sound
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578
+Lemma: wave
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.661271676300578

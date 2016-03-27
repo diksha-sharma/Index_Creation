@@ -1,0 +1,11 @@
+Query:  material properties of photoelastic materials  
+Lemmas:
+Lemma: material
+Max TF Term Weight (Un-normalized):   0.9004262602878819
+Okapi Weight (Un-normalized):   0.7959124087591241
+Lemma: photoelastic
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.6954248366013072
+Lemma: property
+Max TF Term Weight (Un-normalized):   0.6214421478571255
+Okapi Weight (Un-normalized):   0.6954248366013072

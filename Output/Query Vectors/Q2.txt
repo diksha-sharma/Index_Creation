@@ -1,0 +1,26 @@
+Query:  what are the structural and aeroelastic problems associated with flight of high speed aircraft  
+Lemmas:
+Lemma: aeroelastic
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: aircraft
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: associate
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: flight
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: high
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: problem
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: speed
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
+Lemma: structural
+Max TF Term Weight (Un-normalized):   0.7509775004326937
+Okapi Weight (Un-normalized):   0.6341968911917099
